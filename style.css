@@ -1,9 +1,13 @@
 :root{
   --navColor: #333;
   --mainAccent: rgb(76, 159, 65);
-  --accent2:  rgb(125, 154, 119);
-  --mainBackground: rgb(104, 104, 104);
+  --accent2:  rgb(22, 86, 45);
+  --mainBackground: rgb(34, 34, 34);
   --navText: white;
+}
+
+body{
+  background-color: var(--mainBackground);
 }
 
 .navbar {
@@ -17,7 +21,7 @@
 
 .navbarS {
   display: flex;
-  justify-content: end;
+align-items: end;
   flex-wrap: wrap;
   flex-direction: row-reverse;
 }
@@ -28,7 +32,6 @@
   text-align: center;
   padding: 32px 16px;
   text-decoration: none;
-  align-self: flex-end;  
 }
 
 .dropdown {
@@ -77,11 +80,11 @@
 }
 
 .link {
-  color:rgb(76, 159, 65)
+  color:var(--mainAccent);
 }
 
 .link:hover{
-  color:rgb(35, 66, 31)
+  color:var(--accent2)
 }
 
 footer {
