@@ -3,14 +3,14 @@
   --mainAccent: rgb(76, 159, 65);
   --accent2:  rgb(22, 86, 45);
   --mainBackground: rgb(34, 34, 34);
-  --navText: white;
+  --textColor: white;
 }
 
 body{
   background-color: var(--mainBackground);
   margin: 0px;
   font-family: "Lucida Sans Typewriter", Courier, monospace;
-
+  color: var(--textColor);
 }
 
 .navbar {
@@ -31,7 +31,7 @@ align-items: end;
 
 .navbar a {
   font-size: 20px;
-  color: var(--navText);
+  color: var(--textColor);
   text-align: center;
   padding: 32px 16px;
   text-decoration: none;
@@ -45,7 +45,7 @@ align-items: end;
   font-size: 36px;  
   border: none;
   outline: none;
-  color: var(--navText);
+  color: var(--textColor);
   padding: 14px 16px;
   background-color: inherit;
   font-family: inherit;
@@ -67,7 +67,7 @@ align-items: end;
 
 .dropdown-content a {
   float: none;
-  color: var(--navText);
+  color: var(--textColor);
   padding: 12px 16px;
   text-decoration: none;
   display: block;
@@ -92,7 +92,7 @@ align-items: end;
 
 footer {
   background-color: var(--navColor);
-  color: var(--navText);
+  color: var(--textColor);
   padding: 16px;
   font-size: 14px;
 }
