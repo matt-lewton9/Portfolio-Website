@@ -21,7 +21,7 @@
     z-index: 1;
   }
 
-  dropbtn a {
+.dropbtn a {
     display: block;
     color: white;
     text-align: center;
@@ -37,6 +37,7 @@
   .dropdown:hover .dropdown-content {
     display: block;
   }
+
   .navbar a:hover, .dropdown:hover .dropbtn {
     background-color: rgb(103, 208, 89);
   }
