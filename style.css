@@ -6,6 +6,7 @@
     background-color: #333;
   }
   
+
 .dropbtn {
     float: left;
   }
@@ -34,4 +35,7 @@
 
   .dropdown:hover .dropdown-content {
     display: block;
+  }
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: rgb(103, 208, 89);
   }
