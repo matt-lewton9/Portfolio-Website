@@ -19,7 +19,7 @@ body {
   
   .dropdown-content {
     display: none;
-    position: absolute;
+    position: relative;
     background-color: #333;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
@@ -46,6 +46,7 @@ body {
 .dropdown {
     float: left;
     overflow: hidden;
+    position:absolute;
   }
 
   .dropdown:hover .dropdown-content {
