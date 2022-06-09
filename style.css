@@ -6,7 +6,7 @@ navbar {
     background-color: #333;
   }
   
-  dropbtn {
+sdropbtn {
     float: left;
   }
   
@@ -16,4 +16,13 @@ navbar {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+  }
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+  }
+
+  .dropdown:hover .dropdown-content {
+    display: block;
   }
