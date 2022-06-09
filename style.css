@@ -8,6 +8,9 @@
 
 body{
   background-color: var(--mainBackground);
+  margin: 0px;
+  font-family: "Lucida Sans Typewriter", Courier, monospace;
+
 }
 
 .navbar {
