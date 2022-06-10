@@ -11,6 +11,7 @@ body{
   margin: 0px;
   font-family: "Lucida Sans Typewriter", Courier, monospace;
   color: var(--textColor);
+  margin: 5% auto;
 }
 
 .navbar {
