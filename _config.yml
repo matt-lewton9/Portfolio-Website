@@ -10,4 +10,5 @@ include:
  - _pages
  - _layouts
  - _data
+ - _css
 
