@@ -3,8 +3,11 @@ email: mlewton@purdue.edu
 description: > 
   Matthew Lewton's portfolio website built with Jeckyll to showcase 
   enineering, programming, and manufacturing projects.
-baseurl: ""
+baseurl: "/Portfilio-Website"
 github_username: matt-lewton9
 url: "https://matt-lewton9.github.io/Portfolio-Website/"
 include:
  - _pages
+ - _layouts
+ - _data
+
