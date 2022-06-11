@@ -5,7 +5,7 @@ description: >
   enineering, programming, and manufacturing projects.
 url: mattlewton.me
 github_username: matt-lewton9
-baseurl: "mattlewton.me/portfolio-website"
+baseurl: "mattlewton.me"
 
 exclude:
 - Gemfile
