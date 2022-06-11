@@ -5,10 +5,11 @@ description: >
   enineering, programming, and manufacturing projects.
 baseurl: "/Portfilio-Website"
 github_username: matt-lewton9
-url: "https://matt-lewton9.github.io/Portfolio-Website/"
-include:
- - _pages
- - _layouts
- - _data
- - _css
+#url: "https://matt-lewton9.github.io/Portfolio-Website/"
 
+exclude:
+- Gemfile
+- Gemfile.lock
+- LICENSE
+- README.md
+- .gitignore
