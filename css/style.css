@@ -47,7 +47,7 @@ body{
   margin-left: 16px;
 }
 
-.navbar a:hover, .name:hover {
+.navbar a:hover {
   background-color: var(--mainAccent);
 }
 
