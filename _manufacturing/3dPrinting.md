@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Test Post (title)
+layout: project
+title: 3D Printing
+when: "2020-Present"
 ---
 
-A banana is an edible fruit – botanically a berry – produced by several kinds
+3D Printing A banana is an edible fruit – botanically a berry – produced by several kinds
 of large herbaceous flowering plants in the genus Musa.
 
 In some countries, bananas used for cooking may be called "plantains",

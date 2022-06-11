@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Test Post (title)
+layout: project
+title: Desktop CNC Mill
+when: "Summer 2022"
 ---
 
-A banana is an edible fruit – botanically a berry – produced by several kinds
+CNC CNC CNC A banana is an edible fruit – botanically a berry – produced by several kinds
 of large herbaceous flowering plants in the genus Musa.
 
 In some countries, bananas used for cooking may be called "plantains",

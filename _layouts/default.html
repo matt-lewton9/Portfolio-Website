@@ -5,35 +5,12 @@
 
 <html lang="en">
 
-<head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- <link href="/static/J50.jpg" rel="icon"> -->
-
-    <title>{{ page.title }} - Matt Lewton</title>
-
-    <link rel="stylesheet" href="/css/style.css"/>
-
-</head>
+{% include head.html %}
 
 <body>
-    <div class="navbar">
-        <a  href="{{ "index.html" | relative_url  }}">Matthew Lewton</a>
-        <div class="navbarS">
-        <a href="{{ "index.html" | relative_url  }}">About</a>
-        <a href="{{ "blog.html" | relative_url  }}">Latest Projects</a>       
-        <a href="#">Manufacturing</a>
-        <a href="#">Programming</a>
-        <a href="#">Engineering</a>
-        </div>
-    </div>
+{% include navbar.html %}
 <div class="main">
     {{ content }}
 </div>
 </body>
-
-<footer>
-Matthew Lewton, 2022. This website was built with Jeckyll and styled myself, no CSS libraries! Code on <a class="link", href="https://github.com/matt-lewton9/Portfolio-Website" >Github</a>
-</footer>
+{% include footer.html %}

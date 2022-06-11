@@ -1,9 +1,11 @@
 ---
-layout: post
-title: Test Post (title)
+layout: project
+title: NASA MINDS
+when: "2020-2021"
+imgFilename: "nasamain.jpg"
 ---
 
-A banana is an edible fruit – botanically a berry – produced by several kinds
+NASA NASA NASA A banana is an edible fruit – botanically a berry – produced by several kinds
 of large herbaceous flowering plants in the genus Musa.
 
 In some countries, bananas used for cooking may be called "plantains",

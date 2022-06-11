@@ -1,0 +1,15 @@
+---
+layout: default
+title: Engineering
+---
+
+<h1 class="topicName">{{page.title}} Projects</h1>
+
+<div class="projects">
+    {% for project in site.engineering %}
+    <figure href="{{ project.url }}">
+        <img src="{{ site.imgPath }}{{ project.imgFilename }}">
+        <figcaption>{{ project.title }} - {prpject.when}</figcaption>
+    </figure>
+    {% endfor %}
+</div>

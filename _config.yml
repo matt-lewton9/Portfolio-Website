@@ -7,6 +7,19 @@ url: mattlewton.me
 #url: http://localhost:4000
 github_username: matt-lewton9
 
+imgPath: /assets/images/
+
+collections:
+ engineering:
+  output: true
+  order:
+   - nasaMinds.md
+   - DesktopCNC.md
+ programming:
+  output: true  
+ manufacturing:
+  output: true
+
 exclude:
 - Gemfile
 - Gemfile.lock

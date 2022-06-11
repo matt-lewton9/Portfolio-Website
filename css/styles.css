@@ -41,9 +41,31 @@ body{
 
 }
 
+.topicName {
+  font-size: 32px;
+  text-decoration: underline;
+}
+
+.projects {
+  display: flex;
+}
+
+.projects a {
+  flex-wrap: wrap-reverse;
+  color: var(--textColor);
+  font-size: 16px;
+  text-align: center;
+}
+
+.projects a img {
+  width: 200px;
+  height: 300px;
+  object-fit: scale-down;
+}
+
 .main
 {
-  color:white;
+  color: var(--textColor);
   margin-left: 16px;
 }
 
@@ -52,11 +74,16 @@ body{
 }
 
 .link {
-  color:var(--mainAccent);
+  color:var(--textColor);
 }
 
 .link:hover{
   color:var(--accent2)
+}
+
+.link:visited{
+  color:var(--textColor);
+
 }
 
 footer {
