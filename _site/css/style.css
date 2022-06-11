@@ -1,0 +1,67 @@
+:root{
+  --navColor: #333;
+  --mainAccent: rgb(76, 159, 65);
+  --accent2:  rgb(22, 86, 45);
+  --mainBackground: rgb(34, 34, 34);
+  --textColor: white;
+}
+
+body{
+  background-color: var(--mainBackground);
+  margin: 0px;
+  font-family: "Lucida Sans Typewriter", Courier, monospace;
+  color: var(--textColor);
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  width: 100%;
+}
+
+.navbarS {
+  display: flex;
+  flex-wrap: wrap-reverse;
+  flex-direction: row-reverse;
+  flex-grow: 2;
+  align-items: stretch;
+
+}
+
+.navbar a {
+  font-size: 20px;
+  color: var(--textColor);
+  text-align: center;
+  padding: 32px 16px;
+  text-decoration: none;
+  margin-right: 16px;
+
+}
+
+.main
+{
+  color:white;
+  margin-left: 16px;
+}
+
+.navbar a:hover, .name:hover {
+  background-color: var(--mainAccent);
+}
+
+.link {
+  color:var(--mainAccent);
+}
+
+.link:hover{
+  color:var(--accent2)
+}
+
+footer {
+  background-color: var(--navColor);
+  color: var(--textColor);
+  padding: 16px;
+  font-size: 14px;
+}
