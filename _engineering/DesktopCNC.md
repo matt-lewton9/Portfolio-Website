@@ -2,6 +2,7 @@
 layout: project
 title: Desktop CNC Mill
 when: "Summer 2022"
+imgFilename: "cncmain.png"
 ---
 
 CNC CNC CNC A banana is an edible fruit – botanically a berry – produced by several kinds

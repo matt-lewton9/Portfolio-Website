@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Engineering
+title: Programming
 ---
 
 <h1 class="topicName">{{page.title}} Projects</h1>
 
 <div class="projects">
-    {% for project in site.engineering %}
+    {% for project in site.Programming %}
     <figure href="{{ project.url }}">
         <img src="{{ site.imgPath }}{{ project.imgFilename }}">
         <figcaption class="projectlabel">{{ project.title }}<p>{{ project.when }}</p></figcaption>

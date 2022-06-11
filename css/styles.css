@@ -50,18 +50,19 @@ body{
   display: flex;
 }
 
-.projects a {
+.projects figure{
   flex-wrap: wrap-reverse;
   color: var(--textColor);
-  font-size: 16px;
+  font-size: 24px;
   text-align: center;
 }
 
-.projects a img {
-  width: 200px;
-  height: 300px;
+.projects figure img {
+  width: 400px;
+  height: 400px;
   object-fit: scale-down;
 }
+
 
 .main
 {
