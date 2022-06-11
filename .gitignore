@@ -3,3 +3,5 @@ Gemfile.lock
 .jekyll-cache
 .jekyll-metadata
 vendor
+_site
+CNAME
