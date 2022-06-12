@@ -2,7 +2,7 @@
 layout: project
 title: NASA MINDS
 when: "2020-2021"
-imgFilename: "nasamain.jpg"
+imgFilename: "nasaMain.jpg"
 ---
 
 NASA NASA NASA A banana is an edible fruit – botanically a berry – produced by several kinds
