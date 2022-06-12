@@ -12,19 +12,10 @@ imgPath: assets/images/
 collections:
  engineering:
   output: true
-  order:
-   - nasaMinds.md
-   - DesktopCNC.md
  programming:
   output: true  
  manufacturing:
-  output: true
-  order:
-   - cncMachining.md
-   - 3dPrinting.md
-   - composites.md
-   - coolStuff.md
-   
+  output: true   
 
 exclude:
 - Gemfile

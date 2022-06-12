@@ -60,7 +60,7 @@ body{
 }
 
 .projects a figure img {
-  width: 400px;
+  width: 500px;
   height: 400px;
   object-fit: scale-down;
 }
