@@ -19,6 +19,12 @@ collections:
   output: true  
  manufacturing:
   output: true
+  order:
+   - cncMachining.md
+   - 3dPrinting.md
+   - composites.md
+   - coolStuff.md
+   
 
 exclude:
 - Gemfile

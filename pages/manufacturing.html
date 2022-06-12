@@ -6,10 +6,8 @@ title: Manufacturing
 <h1 class="topicName">{{page.title}} Projects</h1>
 
 <div class="projects">
-    {% for project in site.Manufacturing %}
-    <figure href="{{ project.url }}">
-        <img src="{{ site.imgPath }}{{ project.imgFilename }}">
-        <figcaption class="projectlabel">{{ project.title }}<p>{{ project.when }}</p></figcaption>
-    </figure>
+    {% assign sorted = site.manufacturing | sort: 'order' %}
+    {% for project in sorted %}
+        {% include preview.html %}
     {% endfor %}
 </div>

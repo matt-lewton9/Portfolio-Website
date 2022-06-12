@@ -1,7 +1,9 @@
 ---
 layout: project
 title: 3D Printing
-when: "2020-Present"
+when: ""
+imgFilename: "3dpMain.jpg"
+order: 2
 ---
 
 3D Printing A banana is an edible fruit – botanically a berry – produced by several kinds
