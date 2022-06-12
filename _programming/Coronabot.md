@@ -3,7 +3,7 @@ layout: project
 title: Discord Bots
 imgFilename: "coronabotMain.png"
 when: "2021-Present"
-order: 2
+order: 3
 ---
 Bots A banana is an edible fruit – botanically a berry – produced by several kinds
 of large herbaceous flowering plants in the genus Musa.

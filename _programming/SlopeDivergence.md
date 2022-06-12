@@ -3,7 +3,7 @@ layout: project
 title: Initial Slope by Divergence
 imgFilename: "slopeMain.png"
 when: "Spring 2022"
-order: 1
+order: 2
 ---
 Slope A banana is an edible fruit – botanically a berry – produced by several kinds
 of large herbaceous flowering plants in the genus Musa.
