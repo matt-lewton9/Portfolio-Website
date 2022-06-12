@@ -5,7 +5,7 @@ imgFilename: "roomateMain.png"
 when: "Spring 2021"
 order: 5
 ---
-<img src="assets/images/roomateMain.png" style="width:400px;height:300px;float:left">
+<img src="{{ "assets/images/roomateMain.png" | | relative_url }}" style="width:300;height:300px;float:right;padding:32px">
 
 I created survey and python program to create a "compatibility score" for any two possible roommates. It considers over 30 different aspects of a roommate, such as common interests and living habits, etc. 
 
@@ -13,6 +13,6 @@ I distributed it on the Purdue Class of 2025 Discord server and it was used by o
 
 There was already a spreadsheet circulating on the Discord server where over 100 students filled out information, however, such a large spreadsheet was difficult to analyze  to find roommates you might be similar to.
 
-[The program](https://github.com/matt-lewton9/PurdueRoomate-Matcher) analyzed the unformatted text in the existing spreadsheet, and comapred the similarity of different rommate's entries to create a "compatibility score". It awarded weighted points for similar sleep schedules, music taste, majors, etc.
+<div href="https://github.com/matt-lewton9/PurdueRoomate-Matcher", class="link">The program</div> analyzed the unformatted text in the existing spreadsheet, and comapred the similarity of different rommate's entries to create a "compatibility score". It awarded weighted points for similar sleep schedules, music taste, majors, etc.
 
 I later created a custom survey, that produced formatted data which could be more easily analyzed by the program.

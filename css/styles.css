@@ -101,7 +101,7 @@ body{
 }
 
 .link:hover{
-  color:var(--accent2)
+  color:var(--accent2);
 }
 
 .link:visited{
