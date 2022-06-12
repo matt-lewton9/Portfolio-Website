@@ -8,7 +8,7 @@ title: Engineering
 <div class="projects">
     {% for project in site.engineering %}
     <figure href="{{ project.url }}">
-        <img src="{{ site.imgPath }}{{ project.imgFilename }}">
+        <img src="{{ site.imgPath  | relative_url }}{{ project.imgFilename }}">
         <figcaption class="projectlabel">{{ project.title }}<p>{{ project.when }}</p></figcaption>
     </figure>
     {% endfor %}
