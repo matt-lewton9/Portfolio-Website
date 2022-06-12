@@ -2,7 +2,7 @@
 layout: project
 title: 3D Printing
 when: ""
-imgFilename: "3dpMain.jpg"
+imgFilename: "3dpMain2.jpg"
 order: 2
 ---
 
