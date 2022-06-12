@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Composites
-imgFilename: "compositesMain.jpg"
+imgFilename: "compositesMain.JPG"
 when: ""
 order: 3
 ---

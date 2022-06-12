@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Other
-imgFilename: "otherMain2.jpg"
+imgFilename: "otherMain2.JPG"
 when: ""
 order: 4
 ---
