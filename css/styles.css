@@ -115,3 +115,9 @@ footer {
   padding: 16px;
   font-size: 14px;
 }
+
+@media screen and (max-width: 768px){
+  /* place here CSS targeted at iPads and smaller, including iPhones and small hand-held devices */
+
+
+}

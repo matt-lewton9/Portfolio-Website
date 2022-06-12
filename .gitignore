@@ -1,6 +1,7 @@
+Gemfile
 Gemfile.lock
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-.CNAME
-_site/
+CNAME
+/_site
