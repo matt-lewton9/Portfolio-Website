@@ -1,9 +1,9 @@
 ---
 layout: project
-title: Ice Rink Shaded
+title: Ice Rink Shade
 imgFilename: "clubShadeMain.png"
 when: "Spring 2021"
-order: 3
+order: 6
 ---
 clubshade A banana is an edible fruit – botanically a berry – produced by several kinds
 of large herbaceous flowering plants in the genus Musa.
