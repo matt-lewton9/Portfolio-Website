@@ -13,22 +13,28 @@ body{
   color: var(--textColor);
 }
 
+.maintext{
+  color:var(--textColor)
+}
+
 .main
 {
   color: var(--textColor);
   margin-left: 16px;
+  margin-right: 16px;
 }
 
-.manSplit{
+.mainSplit{
   display: flex;
+  gap: 16px;
   justify-content: center;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  gap: 10px;
+  align-items: stretch;
+  flex-direction: row;
 }
 
 .mainSplitBox{
   background-color: var(--navColor);
+  padding: 16px;
 }
 
 .navbar {
@@ -126,14 +132,10 @@ padding: 0px 48 0px 48;
   color:var(--mainAccent);
 }
 
-.link:hover{
+.link:hover, a link:hover{
   color:var(--accent2);
 }
 
-.link:visited{
-  color:var(--mainAccent);
-
-}
 
 footer {
   background-color: var(--navColor);
@@ -141,10 +143,15 @@ footer {
   padding: 16px;
   font-size: 14px;
   position: sticky;
+  margin-top: 16px;
 }
 
 @media screen and (max-width: 768px){
   /* place here CSS targeted at iPads and smaller, including iPhones and small hand-held devices */
-
+  
+  .navbar {
+    flex-direction: column;
+  }
+  
 
 }
