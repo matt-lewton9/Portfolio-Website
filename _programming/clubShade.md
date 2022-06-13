@@ -21,7 +21,7 @@ These graphics were used to help the club determine the position and size of the
 
 The code is <a href="https://github.com/matt-lewton9/club_shade" class="link">here</a> on github.
 
-
+<br>
 <div class="vids">
 <figure>
   <video controls="true" allowfullscreen="true" width="600">
