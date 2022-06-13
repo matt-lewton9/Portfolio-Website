@@ -20,14 +20,14 @@ Using graphics for every day of the ice rink's season, from October to March, I 
 These graphics were used to help the club determine the position and size of the shade covering.
 
 <div class="vids">
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true">
+<figure>
+  <video controls="true" allowfullscreen="true" class="videoSettings">
     <source src="{{ "assets/videos/shade.mp4" | relative_url }}" type="video/mp4">
   </video>
 </figure>
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true">
+<figure>
+  <video controls="true" allowfullscreen="true" class="videoSettings">
     <source src="{{ "assets/videos/heat.mp4" | relative_url }}" type="video/mp4">
   </video>
 </figure>
