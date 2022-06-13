@@ -122,6 +122,7 @@ padding: 0px 48 0px 48;
   object-fit: scale-down;
   padding: 0px 16px 16px 16px;
   float: right;
+  width:256px;
 }
 
 .excerpt{
