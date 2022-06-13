@@ -5,7 +5,7 @@ imgFilename: "clubShadeMain.png"
 when: "Spring 2021"
 order: 6
 ---
-<img src="{{ "assets/images/shadeRender.png" | relative_url }}" style="width:300;height:300px;float:right;padding: 0px 32px 32px 32px">
+<img src="{{ "assets/images/shadeRender.png" | relative_url }}" style="width:300;height:300px;float:right;padding: 32px">
 
 The Chevy Chase Country Club was considering a partial sun covering for their outdoor ice rink, so I created a simulation of how much of the rink would be shaded over the course of the day at different times of year.
 
