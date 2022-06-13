@@ -83,6 +83,16 @@ body{
   object-fit: scale-down;
 }
 
+video_container{
+  height: 300px;
+}
+
+.vids{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .projectPage {
 padding: 0px 48 0px 48;
 }
