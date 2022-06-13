@@ -1,5 +1,5 @@
 <li>
-    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-    <h3>{{ post.date | date: "%m-%d-%Y" }} </h3>
+    <h2><a class="projectlabel" href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    <h3 class="projectdate">{{ post.date | date: "%m-%d-%Y" }} </h3>
     {{ post.excerpt }}
 </li>

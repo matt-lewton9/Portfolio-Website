@@ -19,6 +19,9 @@ Using graphics for every day of the ice rink's season, from October to March, I 
 
 These graphics were used to help the club determine the position and size of the shade covering.
 
+The code is <a href="https://github.com/matt-lewton9/club_shade" class="link">here</a> on github.
+
+
 <div class="vids">
 <figure>
   <video controls="true" allowfullscreen="true" width="600">
@@ -33,4 +36,3 @@ These graphics were used to help the club determine the position and size of the
 </figure>
 </div>
 
-The code is <a href="https://github.com/matt-lewton9/club_shade" class="link">here</a> on github.

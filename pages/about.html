@@ -2,4 +2,16 @@
 layout: default
 title: About
 ---
-cool stuff
+<body >
+    {{ include bio.html }}
+
+    <div>
+    <h2>Contact Information</h2>
+    email: mlewton@purdue.edu<br>
+    phone: 240-755-7376<br>
+    <a class="link" href="{{ "assets/misc/resume.pdf" | relative_url }}">Resume</a>
+    <img width="64" src="{{"assets/images/headshot.JPG" | relative_url }}" href="https://www.linkedin.com/in/matthew-lewton9">
+    <img width="64" src="{{"assets/images/headshot.JPG" | relative_url }}"  href="https://github.com/matt-lewton9">
+    </div>
+
+</body>
