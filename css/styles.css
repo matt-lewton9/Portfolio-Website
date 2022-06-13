@@ -83,14 +83,15 @@ body{
   object-fit: scale-down;
 }
 
-video_container{
-  width: 300px;
-}
-
 .vids{
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-wrap: wrap;
+}
+
+.video_container{
+  width: 300px;
 }
 
 .projectPage {

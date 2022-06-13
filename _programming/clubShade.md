@@ -11,9 +11,9 @@ The Chevy Chase Country Club was considering a partial sun covering for their ou
 
 The simulation calculates what portion of the rink is shaded based on the geometry of the rink cover and the position of the sun for every minute from 9am to 4pm, when the sun is the most intense.
 
-It then outputs a graphic showing how the shaded reigon moves vertically, and illustrates how the covering shades more of the rink during months when the sun is low in the sky.
+It then outputs a graphic showing how the shaded region moves vertically, and illustrates how the covering shades more of the rink during months when the sun is low in the sky.
 
-It also outputs a heat map, showinig the distribution of total minutes of shade across the rink.
+It also outputs a heat map, showing the distribution of total minutes of shade across the rink.
 
 Using graphics for every day of the ice rink's season, from October to March, I created time lapses, showing how the effectiveness of the shade covering will change over time.
 
