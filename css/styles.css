@@ -116,7 +116,7 @@ padding: 0px 48 0px 48;
 .headshot{
   width: 256px;
   object-fit: scale-down;
-  padding: 24px;
+  padding: 0px 16px 16px 16px;
   float: right;
 }
 
