@@ -8,11 +8,10 @@ title: Home
         <a href="{{ "pages/about.html" | relative_url  }}""><h1 class="maintext" >About Me</h1></a>
         {% include bio.html %}
     </div>
-
     <div class="mainSplitBox">
         <a href="{{ "pages/blog.html" | relative_url  }}"><h1 class="maintext">Latest Projects</h1></a>
-        {% for post in site.posts limit:3 %}
-        {% include excerpt.html %}
-        {% endfor %}
+        {%- for post in site.posts limit:3 -%}
+        {%- include excerpt.html -%}
+        {%- endfor -%}
     </div>
 </div>

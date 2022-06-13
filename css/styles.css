@@ -88,7 +88,7 @@ body{
   object-fit: scale-down;
 }
 
-.projects figure:hover{
+.projects figure:hover, .excerpt:hover{
   background-color: var(--navColor);
 }
 
@@ -124,6 +124,10 @@ padding: 0px 48 0px 48;
   float: right;
 }
 
+.excerpt{
+  padding:16px;
+}
+
 .navbar a:hover {
   background-color: var(--mainAccent);
 }
@@ -135,7 +139,6 @@ padding: 0px 48 0px 48;
 .link:hover, a link:hover{
   color:var(--accent2);
 }
-
 
 footer {
   background-color: var(--navColor);
