@@ -5,14 +5,14 @@ title: Home
 <h1>Home Page Stuff, how live is live? cool!!!!</h1>
 <div class="mainSplit">
     <div class="mainSplitBox">
-    <h2>Matthew Lewton:</h2>
-    {% include bio.html %}
+        <a href="{{ "pages/about.html" | relative_url  }}""><h1>About Me</h1></a>
+        {% include bio.html %}
     </div>
 
     <div class="mainSplitBox">
-    <h2>Latest Projects</h2>
-    {% for post in site.posts limit:3 %}
-    {% include excerpt.html %}
-    {% endfor %}
+        <a href="{{ "pages/blog.html" | relative_url  }}"><h1>Latest Projects</h1></a>
+        {% for post in site.posts limit:3 %}
+        {% include excerpt.html %}
+        {% endfor %}
     </div>
 </div>
