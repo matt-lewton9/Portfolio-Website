@@ -21,13 +21,13 @@ These graphics were used to help the club determine the position and size of the
 
 <div class="vids">
 <figure>
-  <video controls="true" allowfullscreen="true" class="videoSettings">
+  <video controls="true" allowfullscreen="true" width="300">
     <source src="{{ "assets/videos/shade.mp4" | relative_url }}" type="video/mp4">
   </video>
 </figure>
 
 <figure>
-  <video controls="true" allowfullscreen="true" class="videoSettings">
+  <video controls="true" allowfullscreen="true" width="300">
     <source src="{{ "assets/videos/heat.mp4" | relative_url }}" type="video/mp4">
   </video>
 </figure>
