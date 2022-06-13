@@ -13,6 +13,6 @@ I distributed it on the Purdue Class of 2025 Discord server ansd it was used by 
 
 There was already a spreadsheet circulating on the Discord server where over 100 students filled out information, however, such a large spreadsheet was difficult to analyze  to find roommates you might be similar to.
 
-<span href="https://github.com/matt-lewton9/PurdueRoomate-Matcher", style="color:red">The program</span> analyzed the unformatted text in the existing spreadsheet, and comapred the similarity of different rommate's entries to create a "compatibility score". It awarded weighted points for similar sleep schedules, music taste, majors, etc.
+<a href="https://github.com/matt-lewton9/PurdueRoomate-Matcher" class="link">The program</a> analyzed the unformatted text in the existing spreadsheet, and comapred the similarity of different rommate's entries to create a "compatibility score". It awarded weighted points for similar sleep schedules, music taste, majors, etc.
 
 I later created a custom survey, that produced formatted data which could be more easily analyzed by the program.
