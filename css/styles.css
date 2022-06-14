@@ -13,6 +13,52 @@ body{
   color: var(--textColor);
 }
 
+.gallery{
+  display: flex;
+  flex-wrap: wrap;
+  overflow-y:auto;
+  height: 50vh;
+  background-color: var(--navColor);
+}
+
+.galleryImg{
+  height: 40vh;
+  flex-grow: 1;
+  text-align: center;
+  position: relative;
+}
+
+.galleryImg img{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  vertical-align: bottom;
+}
+
+.galleryText{
+  color: var(--textColor);
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: none;
+}
+
+.galleryImg img:hover + .galleryText{
+  display: block;
+}
+
+.galleryImg img:hover{
+  opacity: .3;
+}
+
+.galleryHeader{
+  background-color: var(--navColor);
+  padding: 16px;
+  margin-top: 16px;
+  margin-bottom: 0px;
+}
+
 .maintext{
   color:var(--textColor)
 }
@@ -25,6 +71,7 @@ body{
 }
 
 .mainSplit{
+  margin-top: 16px;
   display: flex;
   gap: 16px;
   justify-content: center;
@@ -38,12 +85,13 @@ body{
 }
 
 .navbar {
-  background-color: #333;
+  background-color: var(--navColor);
   display: flex;
   align-items: baseline;
   width: 100%;
   position: sticky;
   top: 0;
+  z-index: 1;
 }
 
 .navbarS {
@@ -148,12 +196,32 @@ footer {
   margin-top: 16px;
 }
 
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: var(--mainBackground); 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: var(--mainAccent); 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: var(--accent2); 
+}
+
+
 @media screen and (max-width: 768px){
   /* place here CSS targeted at iPads and smaller, including iPhones and small hand-held devices */
   
   .navbar {
     flex-direction: column;
   }
-  
 
 }
