@@ -1,7 +1,7 @@
 :root{
   --navColor: #333;
   --mainAccent: rgb(76, 159, 65);
-  --accent2:  rgb(9, 120, 50);
+  --accent2:  rgb(7, 113, 46);
   --mainBackground: rgb(34, 34, 34);
   --textColor: white;
 }
@@ -64,7 +64,6 @@ body{
 
 .topicName {
   font-size: 32px;
-  text-decoration: underline;
 }
 
 .projects {
@@ -119,13 +118,13 @@ padding: 0px 48 0px 48;
 
 .headshot{
   object-fit: scale-down;
-  padding: 0px 16px 16px 16px;
+  padding: 0px 16px 16px 0px;
   float:left;
   width:256px;
 }
 
 .excerpt{
-  padding:16px;
+  padding: 0px 16px 16px 16px;
 }
 
 .navbar a:hover {
