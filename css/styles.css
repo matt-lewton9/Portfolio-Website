@@ -1,7 +1,7 @@
 :root{
   --navColor: #333;
   --mainAccent: rgb(76, 159, 65);
-  --accent2:  rgb(22, 86, 45);
+  --accent2:  rgb(9, 120, 50);
   --mainBackground: rgb(34, 34, 34);
   --textColor: white;
 }
@@ -120,7 +120,7 @@ padding: 0px 48 0px 48;
 .headshot{
   object-fit: scale-down;
   padding: 0px 16px 16px 16px;
-  float: right;
+  float:left;
   width:256px;
 }
 
