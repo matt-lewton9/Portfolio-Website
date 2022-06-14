@@ -38,7 +38,6 @@ body{
 }
 
 .navbar {
-  overflow: hidden;
   background-color: #333;
   display: flex;
   align-items: baseline;
@@ -88,7 +87,7 @@ body{
   object-fit: scale-down;
 }
 
-.projects figure:hover, .excerpt:hover{
+.projects figure:hover{
   background-color: var(--navColor);
 }
 
