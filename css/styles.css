@@ -203,7 +203,7 @@ footer {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: var(--mainBackground); 
+  background: var(--navColor); 
 }
  
 /* Handle */
