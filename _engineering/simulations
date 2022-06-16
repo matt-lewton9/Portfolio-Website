@@ -1,0 +1,9 @@
+---
+layout: project
+title: Sumulations
+when:
+imgFilename: "simsMain.jpg"
+order: 3
+---
+
+<img src="{{ "assets/images/simsMain.jpg" | relative_url }}" class="articleImg">
