@@ -191,6 +191,13 @@ padding: 0px 48 0px 48;
   background-color: var(--navColor);
 }
 
+.articleImg{
+  width:300;
+  height:300px;
+  float:right;
+  padding: 0px 32px 32px 32px;
+}
+
 footer {
   background-color: var(--navColor);
   color: var(--textColor);
