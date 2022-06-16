@@ -41,9 +41,9 @@ images:
 
   - name: otherMain2.JPG
     description: Welding
-    link: /manufacturing/composites.html
+    link: /manufacturing/otherMfg.html
 
   - name: otherMain.JPG
     description: 3D Printed Shirts
-    link: /manufacturing/CoolStuff.html
+    link: /manufacturing/otherMfg.html
 

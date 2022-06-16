@@ -157,8 +157,16 @@ body{
   max-width: 500px;
   max-height: 500px;
   object-fit: scale-down;
-  float:right;
-  padding:16px;
+  float: right;
+  padding: 16px;
+}
+
+.articleImgMain{
+  max-width: 600px;
+  max-height: 500px;
+  object-fit: scale-down;
+  float: right;
+  padding: 0px 16px 16px 16px;
 }
 
 .vids{
