@@ -17,3 +17,5 @@ and the natural temperature gradient of lunar regolith to generate electricity o
 After the competition, conduted more comperhensive experiements which investgiatd design characteristics of the heat conductor assembly. We presented an expanded paper at IEEE MIT URTC 2021, which was published in <a href="https://ieeexplore.ieee.org/document/9701608" class="link">IEEE Xplore</a>.
 
 ## Concept
+
+## Design
