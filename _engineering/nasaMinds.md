@@ -14,7 +14,7 @@ NASA MINDS is a national collegiate competition to develop something novel for t
 For this competition, we designed and tested a lunar thermoelectric generator system which uses waste heat 
 and the natural temperature gradient of lunar regolith to generate electricity on the moon. We received NASA funding to construct and test proposed thermoelectric system, and validated our results with thermal simulations. We received first place for our technical paper, and fourth place overall.
 
-After the competition, condcuted more comperhensive experiements which investgiated design characteristics of the heat conductor assembly. We presented an expanded paper at IEEE MIT URTC 2021, which was published in <a href="https://ieeexplore.ieee.org/document/9701608" class="link">IEEE Xplore</a>. The paper consists of full documentation of our methods and results, this article is an overview of the engineering side.
+After the competition, condcuted more comperhensive experiements which investgiated design characteristics of the heat conductor assembly. We presented an expanded paper at IEEE MIT URTC 2021, which was published in <a href="https://ieeexplore.ieee.org/document/9701608" class="link" target="_blank" rel="noopener noreferrer">IEEE Xplore</a> and is public on <a href="https://arxiv.org/abs/2107.12583" class="link" target="_blank" rel="noopener noreferrer">arXiv</a>.
 
 ## Concept
 
