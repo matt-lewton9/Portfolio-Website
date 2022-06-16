@@ -153,6 +153,14 @@ body{
   object-fit: scale-down;
 }
 
+.articleImg{
+  max-width: 500px;
+  max-height: 500px;
+  object-fit: scale-down;
+  float:right;
+  padding:16px;
+}
+
 .vids{
   display: flex;
   justify-content: center;
@@ -189,14 +197,6 @@ padding: 0px 48 0px 48;
 
 .logo :hover{
   background-color: var(--navColor);
-}
-
-.articleImg{
-  width:300;
-  height:400px;
-  float:right;
-  padding: 0px 32px 32px 32px;
-  object-fit: scale-down;
 }
 
 footer {
