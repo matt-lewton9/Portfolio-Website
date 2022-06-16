@@ -18,4 +18,12 @@ After the competition, conduted more comperhensive experiements which investgiat
 
 ## Concept
 
-## Design
+<img src="{{ "assets/images/HEAT SINK IMAGE" | relative_url }}" class="articleImg">
+
+There is a large temperature difference, between the soil on the moon's surface, and just a few feet underground. This is because lunar soil's thermal conductivity increases with depth as it becomes more compact and dense (like sand at the beach). This project therorized that the lunar soil could be used as a heat sink for thermoelectric generator powered by solar radiation or waste heat from a lunar base.
+
+## Design <img src="{{ "assets/images/TEG IMAGE" | relative_url }}" class="articleImg">
+
+This is done by extending the cold side of the thermolelectric plates with a copper "radiator cylinder" to reach depths with a high thermal conductivity, which is insulated from the sides. The paper compares various aspects of the radiatore cylinder geometry both theoretically and experimentally.
+
+To test this concept experimentally, we built a test apparatus to simulate the thermal conditions of the moon. 

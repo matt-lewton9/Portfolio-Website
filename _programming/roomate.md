@@ -5,7 +5,7 @@ imgFilename: "roomateMain.png"
 when: "Spring 2021"
 order: 5
 ---
-<img src="{{ "assets/images/roomateMain.png" | relative_url }}" style="width:300;height:300px;float:right;padding: 0px 32px 32px 32px">
+<img src="{{ "assets/images/roomateMain.png" | relative_url }}" class="articleImg">
 
 I created a survey and python program to create a "compatibility score" for any two possible roommates. It considers over 30 different aspects of a roommate, such as common interests and living habits, etc. 
 
