@@ -162,8 +162,8 @@ body{
 }
 
 .articleImgMain{
-  max-width: 600px;
-  max-height: 500px;
+  max-width: 450px;
+  max-height: 350px;
   object-fit: scale-down;
   float: right;
   padding: 0px 16px 16px 16px;
