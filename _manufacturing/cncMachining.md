@@ -6,7 +6,7 @@ imgFilename: "cncMain.jpg"
 order: 1
 ---
 
-I work as a Peer Mentor at the Bechtel Innovation Design Center (BIDC) at Purdue, where I'm functionally a student machinist, and mentor users of the manufacturing shop in the fabrication and design of their projects. I advise students while they create their CAM, and guide them through using the equipment. Additionally, I’m on the Purdue Space Program Liquids (PSP-L) manufacturing team.
+I work as a Peer Mentor at the Bechtel Innovation Design Center (BIDC) at Purdue, where I'm functionally a student machinist, and mentor users of the manufacturing shop in the fabrication and design of their projects. I advise students while they create their CAM, and guide them through using the equipment. I’m also on the Purdue Space Program Liquids (PSP-L) manufacturing team.
 
 At BIDC, I've had the opportunity to work with Bridgeport manual mills, as well as a Haas VF-2 and a 5 axis VF-4 mills, and Haas ST-20 series CNC lathes.
 
@@ -18,13 +18,13 @@ At BIDC, I've had the opportunity to work with Bridgeport manual mills, as well 
 </div>
 
 <div>
-<img src="{{ "assets/images/cnc4.JPG" | relative_url }}" class="articleImg">
-<figcaption style="text-align:center">Fin Can Center Ring, Aluminum PSP Flight Hardware</figcaption>
+<img src="{{ "assets/images/cnc5.JPG" | relative_url }}" class="articleImg">
+<figcaption style="text-align:center">Bolt, P3 Steel, BIDC cnc lathe training</figcaption>
 </div>
 
 <div>
-<img src="{{ "assets/images/cnc5.JPG" | relative_url }}" class="articleImg">
-<figcaption style="text-align:center">Custom Bolt, P3 Steel, BIDC cnc lathe training</figcaption>
+<img src="{{ "assets/images/cnc4.JPG" | relative_url }}" class="articleImg">
+<figcaption style="text-align:center">Fin Can Center Ring, Aluminum PSP Flight Hardware</figcaption>
 </div>
 
 <div>

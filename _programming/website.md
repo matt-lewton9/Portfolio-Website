@@ -5,11 +5,8 @@ imgFilename: "siteMain.png"
 when: "Summer 2022"
 order: 1
 ---
-This Website A banana is an edible fruit – botanically a berry – produced by several kinds
-of large herbaceous flowering plants in the genus Musa.
+<img src="{{ "assets/images/"siteMain.png"" | relative_url }}" class="articleImgMain">
 
-In some countries, bananas used for cooking may be called "plantains",
-distinguishing them from dessert bananas. The fruit is variable in size, color,
-and firmness, but is usually elongated and curved, with soft flesh rich in
-starch covered with a rind, which may be green, yellow, red, purple, or brown
-when ripe.
+My latest CS project is this website! It was built using Jeckyll, allowing me to create html templates using includes, write the article content in markdown, and have the pages and menus generate themselves using loops. The CSS styling was done myself without any libraries like Bootstrap. I like darkmode and my favorite color is green. The coolest part of this website in my opinion, is the gallery, which is generated from a YML datafile.
+
+The code is <a href="https://github.com/matt-lewton9/Portfolio-Website" class="link" target="_blank" rel="noopener noreferrer">on Gitrhub</a>.
