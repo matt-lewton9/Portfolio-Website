@@ -6,11 +6,7 @@ imgFilename: "cncMain.jpg"
 order: 1
 ---
 
-CNC A banana is an edible fruit – botanically a berry – produced by several kinds
-of large herbaceous flowering plants in the genus Musa.
+<img src="{{ "assets/images/cncMain.jpg" | relative_url }}" class="articleImgMain">
+I work as a Peer Mentor at the Bechtel Innovation Design Center (BIDC) at Purdue, where I'm functionally a student machinist, and mentor users of the manufacturing shop in the fabrication and design of their projects. I advise students while they create their CAM, and guide them through using the equipment.
 
-In some countries, bananas used for cooking may be called "plantains",
-distinguishing them from dessert bananas. The fruit is variable in size, color,
-and firmness, but is usually elongated and curved, with soft flesh rich in
-starch covered with a rind, which may be green, yellow, red, purple, or brown
-when ripe.
+At BIDC, I've had the opportunity to work with Bridgeport manual mills, as well as a Haas VF-2 and a 5 axis VF-4 mills, and Haas ST20 series CNC lathes.
