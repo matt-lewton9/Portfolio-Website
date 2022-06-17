@@ -155,18 +155,30 @@ body{
 
 .articleImg{
   max-width: 400px;
-  max-height: 300px;
+  max-height: 450px;
   object-fit: scale-down;
   float: right;
   padding: 16px;
 }
 
 .articleImgMain{
-  max-width: 400px;
-  max-height: 300px;
+  max-width: 450px;
+  max-height: 400px;
   object-fit: scale-down;
   float: right;
   padding: 0px 16px 16px 16px;
+}
+
+.imgCptnBox{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  }
+
+.articleCaption{
+  text-align: center;
+  white-space: nowrap;
 }
 
 .vids{
@@ -174,10 +186,6 @@ body{
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-}
-
-.projectPage {
-padding: 0px 48 0px 48;
 }
 
 .headshot{
@@ -213,8 +221,7 @@ footer {
   padding: 16px;
   font-size: 14px;
   position: sticky;
-  margin-top: 16px;
-  bottom:0;
+  margin-top: 32px;
 }
 
 /* width */

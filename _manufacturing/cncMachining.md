@@ -10,31 +10,31 @@ I work as a Peer Mentor at the Bechtel Innovation Design Center (BIDC) at Purdue
 
 At BIDC, I've had the opportunity to work with Bridgeport manual mills, as well as a Haas VF-2 and a 5 axis VF-4 mills, and Haas ST-20 series CNC lathes.
 
-<div style="display:flex; justify-content:center; align-items:flex-end; flex-wrap:wrap;">
+<div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap;">
 
-<div>
+<div class="imgCptnBox">
 <img src="{{ "assets/images/cncMain.jpg" | relative_url }}" class="articleImg">
-<figcaption style="text-align:center">QD Bracing Block, Aluminum, 5 Axis part for PSP GSE</figcaption>
+<figcaption class="articleCaption">QD Bracing Block, Aluminum, 5 Axis part for PSP GSE</figcaption>
 </div>
 
-<div>
+<div class="imgCptnBox">
 <img src="{{ "assets/images/cnc5.JPG" | relative_url }}" class="articleImg">
-<figcaption style="text-align:center">Bolt, P3 Steel, BIDC cnc lathe training</figcaption>
+<figcaption class="articleCaption">Bolt, P3 Steel, BIDC cnc lathe training</figcaption>
 </div>
 
-<div>
+<div class="imgCptnBox">
 <img src="{{ "assets/images/cnc4.JPG" | relative_url }}" class="articleImg">
-<figcaption style="text-align:center">Fin Can Center Ring, Aluminum PSP Flight Hardware</figcaption>
+<figcaption class="articleCaption">Fin Can Center Ring, Aluminum PSP Flight Hardware</figcaption>
 </div>
 
-<div>
+<div class="imgCptnBox">
 <img src="{{ "assets/images/cncMain2.JPG" | relative_url }}" class="articleImg">
-<figcaption style="text-align:center">Titan 9M, Aluminum, BIDC mill training</figcaption>
+<figcaption class="articleCaption">Titan 9M, Aluminum, BIDC mill training</figcaption>
 </div>
 
-<div>
+<div class="imgCptnBox">
 <img src="{{ "assets/images/cnc3.JPG" | relative_url }}" class="articleImg">
-<figcaption style="text-align:center">Helical Pen Cap, P0 Steel, 5 axis rotary part</figcaption>
+<figcaption class="articleCaption">Helical Pen Cap, P0 Steel, 5 axis rotary part</figcaption>
 </div>
 
 </div>

@@ -18,8 +18,6 @@ It functions as a music bot with the standard features of playing, queueing, ski
 
 It also has a built in soundboard, which the user can populate with their own MP3 files, as well as text-to-speech in voice calls for those without microphones. For server admins it has a "manual mode" hidden command, where you can send messages as the bot, usually from a hidden admin channel. Lastly, just for fun, it always monitors text channels to respond with dad jokes. If I said "I'm hungry.", it would say "Hi Hungry, I'm Dad."
 
-<img src="{{ "assets/images/countBot.png" | relative_url }}" class="articleImg">
-
 ## Other Bots
 
 I also made a few smaller bots for niche projects:
