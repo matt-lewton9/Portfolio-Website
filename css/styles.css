@@ -155,15 +155,15 @@ body{
 
 .articleImg{
   max-width: 400px;
-  max-height: 00px;
+  max-height: 300px;
   object-fit: scale-down;
   float: right;
   padding: 16px;
 }
 
 .articleImgMain{
-  max-width: 450px;
-  max-height: 400px;
+  max-width: 400px;
+  max-height: 300px;
   object-fit: scale-down;
   float: right;
   padding: 0px 16px 16px 16px;
@@ -215,6 +215,7 @@ footer {
   margin-top: 16px;
   position: absolute;
   bottom: 0;
+  width:100%;
 }
 
 /* width */
