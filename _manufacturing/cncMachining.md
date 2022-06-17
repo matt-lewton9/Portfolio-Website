@@ -18,12 +18,12 @@ At BIDC, I've had the opportunity to work with Bridgeport manual mills, as well 
 </div>
 
 <div>
-<img src="{{ "assets/images/cnc4.jpg" | relative_url }}" class="articleImg">
+<img src="{{ "assets/images/cnc4.JPG" | relative_url }}" class="articleImg">
 <figcaption style="text-align:center">Fin Can Center Ring, Aluminum PSP Flight Hardware</figcaption>
 </div>
 
 <div>
-<img src="{{ "assets/images/cnc5.jpg" | relative_url }}" class="articleImg">
+<img src="{{ "assets/images/cnc5.JPG" | relative_url }}" class="articleImg">
 <figcaption style="text-align:center">Custom Bolt, P3 Steel, BIDC cnc lathe training</figcaption>
 </div>
 
@@ -33,7 +33,7 @@ At BIDC, I've had the opportunity to work with Bridgeport manual mills, as well 
 </div>
 
 <div>
-<img src="{{ "assets/images/cnc3.jpg" | relative_url }}" class="articleImg">
+<img src="{{ "assets/images/cnc3.JPG" | relative_url }}" class="articleImg">
 <figcaption style="text-align:center">Helical Pen Cap, P0 Steel, 5 axis personal project</figcaption>
 </div>
 
