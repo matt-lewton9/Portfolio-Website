@@ -6,11 +6,9 @@ imgFilename: "3dpMain2.JPG"
 order: 2
 ---
 
-3D Printing A banana is an edible fruit – botanically a berry – produced by several kinds
-of large herbaceous flowering plants in the genus Musa.
+I've been FDM 3D printing since high school . I mostly print mechanical projects, and I'm able to consistently get clearence, transition, and interference fits. I've also done multimaterial printing with a Palette 2S. 
 
-In some countries, bananas used for cooking may be called "plantains",
-distinguishing them from dessert bananas. The fruit is variable in size, color,
-and firmness, but is usually elongated and curved, with soft flesh rich in
-starch covered with a rind, which may be green, yellow, red, purple, or brown
-when ripe.
+
+
+
+Nutcrackers of my friends as gifts. I submitted them to a r/3Dprinting stocking stuffer competition and won a Voxelab Aquilla!

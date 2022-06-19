@@ -26,8 +26,8 @@ If you think this program sounds inefficient, you'd be correct, however runtime 
 
 You only have to search in the first 1/8 of the dataset, since that range is where all the solutions will be located. You also can skip points. The final version compared every tenth point, without really affecting accuracy.
 
-There are also a few built in ways to handle data noise and outliers. One, is to return the nth acceptable solution found. This verifies that the algorithm has found a range of acceptable solutions, and hasn't just stumbled on an outlier. The skipping feature mentioned above also helps with noise, as the divergence tolerance is less likely to be tripped by local variations.
+There are also a few built in ways to handle data noise and outliers. The algrithm returns the nth acceptable solution found (I used the 20th solution). This verifies that the algorithm has entered a range of acceptable solutions, and hasn't just stumbled on an outlier. The skipping feature mentioned above also helps with noise, as the divergence tolerance is less likely to be tripped by local variations.
 
-In future work, an optimal divergence tolerance and error could be finely honed by machine learning much more accurately and efficiently. However, linearly increasing both of those parameters was adequate to get very accurate results that exceeded what was required for the assignment. 
+In future work, an optimal divergence tolerance and error limit could be finely honed by machine learning or gradient ascent much more accurately and efficiently. However, linearly increasing both of those parameters was adequate to get very accurate results that exceeded what was required.
 
 This project is not on Github due to academic integrity rules, since it was an assignment.
