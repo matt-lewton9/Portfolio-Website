@@ -155,8 +155,8 @@ body{
 }
 
 .articleImg{
-  max-width: 400px;
-  max-height: 450px;
+  max-width: 450px;
+  max-height: 400px;
   object-fit: scale-down;
   float: right;
   padding: 16px;
@@ -175,6 +175,7 @@ body{
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  gap: 16px;
   }
 
 .articleCaption{

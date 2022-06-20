@@ -17,4 +17,4 @@ The program analyzed the unformatted text in the existing spreadsheet, and compa
 
 I later created a custom survey that produced formatted data which could be more easily analyzed by the program.
 
-The code is <a href="https://github.com/matt-lewton9/PurdueRoomate-Matcher" class="link" target="_blank" rel="noopener noreferrer">on Gitrhub</a>.
+The code is <a href="https://github.com/matt-lewton9/PurdueRoomate-Matcher" class="link" target="_blank" rel="noopener noreferrer">on Github</a>.
