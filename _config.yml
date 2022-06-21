@@ -9,7 +9,7 @@ github_username: matt-lewton9
 imgPath: assets/images/
 
 collections:
- engineering:
+ design:
   output: true
  programming:
   output: true  
