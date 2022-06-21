@@ -29,6 +29,11 @@ My 3d printing hobby projects are on Instagram <a href="https://www.instagram.co
 </div>
 
 <div class="imgCptnBox">
+<img src="{{ "assets/images/3dLock.JPG" | relative_url }}" class="articleImg">
+<figcaption class="articleCaption">Pin/Tumbler lock and door handle<br>very tight fits and tolerences</figcaption>
+</div>
+
+<div class="imgCptnBox">
 <img src="{{ "assets/images/leg.png" | relative_url }}" class="articleImg">
 <figcaption class="articleCaption">Collapsable leg, print in place linkage.</figcaption>
 </div>

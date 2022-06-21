@@ -5,11 +5,13 @@ imgFilename: "compositesMain.JPG"
 when: ""
 order: 3
 ---
-Composites A banana is an edible fruit – botanically a berry – produced by several kinds
-of large herbaceous flowering plants in the genus Musa.
 
-In some countries, bananas used for cooking may be called "plantains",
-distinguishing them from dessert bananas. The fruit is variable in size, color,
-and firmness, but is usually elongated and curved, with soft flesh rich in
-starch covered with a rind, which may be green, yellow, red, purple, or brown
-when ripe.
+<img src="{{ "assets/images/compositesMain.JPG" | relative_url }}" class="articleImgMain">
+
+I'm on the composites subteam of Purdue Space Program Liquids. We're designing and manufacturing a structural carbon fiber airframe and fins.
+
+We made our carbon fiber tubes with wet layup vacuum bagging around a mandrel. However, we have had issues with resin density and wrinkles, so we will be pivoting to oven cured prepreg fabric in a two piece vacuum bagged mold.
+
+I am using Ansys ACP to design and simulate the strength of composite airframes. We will be running experimental tests to validate the accuracy of our simulations before making the final airframe.
+
+This summer, I am running a subscale version of next semester's design-simulate-validate test campaign with a fiberglass airframe on an L1 high power solid rocket.
