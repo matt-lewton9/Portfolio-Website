@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Engineering
+title: Design
 ---
 
 <h1 class="topicName">{{page.title}} Projects</h1>
 
 <div class="projects">
-    {% assign sorted = site.engineering | sort: 'order' %}
+    {% assign sorted = site.design | sort: 'order' %}
     {% for project in sorted %}
         {% include preview.html %}
     {% endfor %}
