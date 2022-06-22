@@ -166,7 +166,6 @@ body{
   max-height: 400px;
   object-fit: scale-down;
   float: right;
-  padding: 8px;
 }
 
 .articleImgMain{
@@ -174,21 +173,21 @@ body{
   max-height: 400px;
   object-fit: scale-down;
   float: right;
-  padding: 0px 16px 16px 16px;
+  padding: 0px 16px;
 }
 
 .imgCptnBox{
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
-  align-content: stretch;
   gap: 16px;
-  }
+}
 
 .articleCaption{
   text-align: center;
   white-space: nowrap;
+  padding: 0px 16px 16px 16px;
 }
 
 .vids{

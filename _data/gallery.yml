@@ -5,11 +5,11 @@ images:
 
   - name: cncMain.png
     description: Desktop CNC Mill
-    link: /engineering/DesktopCNC.html
+    link: /design/DesktopCNC.html
 
   - name: nasaMain.jpg
     description: NASA MINDS
-    link: engineering/nasaMinds.html
+    link: design/nasaMinds.html
 
   - name: 3dpMain2.JPG
     description: 3D Printing
