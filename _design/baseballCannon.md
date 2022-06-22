@@ -19,12 +19,12 @@ It was pneumatically fired. The air pump would pressurize a pvc air reservoir on
 
 <div class="imgCptnBox" style="float:right">
 <img src="{{ "assets/images/cannon2.png" | relative_url }}" class="articleImgMain">
-<figcaption class="articleCaption">Reservoir, Fill Valve, Firing valve (blue) visible<br>(left to right)</figcaption>
+<figcaption class="articleCaption">Muzzle, Reservoir, Fill Valve, Firing valve visible<br>(left to right)</figcaption>
 </div>
 
 <div class="imgCptnBox" style="float:right">
 <img src="{{ "assets/images/valve.jpg" | relative_url }}" class="articleImgMain">
-<figcaption class="articleCaption">Shattered valve, even with foam padding (not showm)</figcaption>
+<figcaption class="articleCaption">Shattered valve piston, even with foam padding (not showm)</figcaption>
 </div>
 
 </div>
