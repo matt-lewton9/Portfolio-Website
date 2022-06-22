@@ -3,7 +3,7 @@ layout: project
 title: Lunar Thermoelectric Generator NASA MINDS 
 when: "2020-2021"
 imgFilename: "nasaMain.jpg"
-order: 3
+order: 2
 ---
 
 <div class="imgCptnBox" style="float:right">
@@ -26,7 +26,7 @@ There is a large temperature difference, between the soil on the moon’s surfac
 This can be done by extending the cold side of the thermoelectric plates with a copper "radiator cylinder" to reach depths with a high thermal conductivity, which is insulated from the sides.
 
 <div class="imgCptnBox" style="float:left">
-<img src="{{ "assets/images/teg.png" | relative_url }}" class="articleImg">
+<img src="{{ "assets/images/teg.png" | relative_url }}" class="articleImg" style="padding-right:16px">
 <figcaption class="articleCaption">Prototype Device</figcaption>
 </div>
 

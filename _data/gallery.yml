@@ -19,10 +19,6 @@ images:
     description: Composites
     link: /manufacturing/composites.html
 
-  - name: roomateMain.png
-    description: Roommate Matcher
-    link: /programming/roomate.html
-
   - name: coronabotMain.png
     description: Discord Bots
     link: /programming/Coronabot.html
@@ -42,6 +38,14 @@ images:
   - name: otherMain2.JPG
     description: Welding
     link: /manufacturing/otherMfg.html
+
+  - name: tableMain.png
+    description: Folding Table
+    link: /design/foldingTable.html
+
+  - name: cannon.jpg
+    description: Baseball Cannon
+    link: /design/baseballCannon.html
 
   - name: otherMain.JPG
     description: 3D Printed Shirts
