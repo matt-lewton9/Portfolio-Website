@@ -8,7 +8,7 @@ order: 3
 
 <div class="imgCptnBox" style="float:right">
 <img src="{{ "assets/images/coronabotMain.png" | relative_url }}" class="articleImgMain">
-<figcaption class="articleCaption">Example song queue</figcaption>
+<figcaption class="articleCaption">Song being queued</figcaption>
 </div>
 
 Discord bots are the most fun I've ever had programming. I've written them using the <a href="https://discordpy.readthedocs.io/en/stable/index.html" class="link" target="_blank" rel="noopener noreferrer">discord.py</a> wrapper for the Discord API.

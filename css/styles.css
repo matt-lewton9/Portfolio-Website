@@ -8,6 +8,7 @@
 
 html{
   height: 100%;
+  width: 100%;
 }
 
 body{
@@ -85,6 +86,7 @@ body{
   align-items: stretch;
   flex-direction: row;
   align-content: stretch;
+  flex-wrap: nowrap;
 }
 
 .mainSplitBox{
@@ -100,6 +102,8 @@ body{
   position: sticky;
   top: 0;
   z-index: 1;
+  overflow: hidden;
+
 }
 
 .navbarS {
@@ -107,6 +111,7 @@ body{
   flex-direction: row-reverse;
   flex-grow: 2;
   align-items: stretch;
+  overflow: hidden;
 }
 
 .navbar a {
@@ -115,7 +120,6 @@ body{
   text-align: center;
   padding: 32px 16px;
   text-decoration: none;
-  margin-right: 16px;
 }
 
 .topicName {
@@ -177,7 +181,6 @@ body{
   float: right;
   padding: 16px;
   padding-bottom: 0px;
-
 }
 
 .imgCptnBox{
@@ -191,7 +194,7 @@ body{
 
 .articleCaption{
   text-align: center;
-  white-space: nowrap;
+  white-space: normal;
   padding: 16px;
   padding-top: 0px;
 }
@@ -207,7 +210,7 @@ body{
   object-fit: scale-down;
   padding: 0px 16px 16px 0px;
   float:left;
-  width:256px;
+  max-width:256px;
 }
 
 .excerpt{
@@ -264,6 +267,53 @@ margin-top: auto;
   
   .navbar {
     flex-direction: column;
+    height: 15%;
+    width: 100%;
+    margin: 0px
+  }
+
+  .headshotBox{
+  display: flex; 
+  flex-direction: column; 
+  justify-content: center;
+  align-content: center;
+  }
+
+  h1{
+    text-align: center;
+    margin-bottom: 0px;
+  }
+
+  .mainSplit{
+    flex-direction: column;
+  }
+
+  .maintext{
+    text-align: center;
+  }
+
+  .articleImg, .articleImgMain, .headshot{
+    max-width: 90%;
+    max-height: 50%;
+    max-width: 250px;
+  }
+  
+  .projImg{
+    max-height: 60vh;
+    max-width: 80vw;
+    padding: 0px;
+  }
+
+  .projects figure{
+    padding: 0px;
+  }
+
+  .projectlabel{
+  padding-top: 0px;
+  }
+
+  .footer{
+    padding: 0px;
   }
 
 }
