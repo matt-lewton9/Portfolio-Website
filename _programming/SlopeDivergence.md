@@ -5,8 +5,10 @@ imgFilename: "slopeMain.png"
 when: "Spring 2022"
 order: 2
 ---
-
+<div class="imgCptnBox" style="float:right">
 <img src="{{ "assets/images/slopeMain.png" | relative_url }}" class="articleImgMain">
+<figcaption class="articleCaption">Example dataset and generated slope</figcaption>
+</div>
 
 I developed an iterative matlab algorithm in my Engineering 132 class to find the initial slope of a dataset. It quantifies a task usually determined by the "eye test" as two numbers, divergence tolerance and error limit, then adjusts those two values iteratively until an acceptable solution is found (No, this is not gradient ascent).
 

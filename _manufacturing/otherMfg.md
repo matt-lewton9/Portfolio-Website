@@ -5,7 +5,10 @@ imgFilename: "otherMain2.JPG"
 when: ""
 order: 4
 ---
-<img src="{{ "assets/images/otherMain2.JPG" | relative_url }}" class="articleImg">
+<div class="imgCptnBox" style="float:right">
+<img src="{{ "assets/images/otherMain2.JPG" | relative_url }}" class="articleImgMain">
+<figcaption class="articleCaption">Welded soda can holder</figcaption>
+</div>
 
 
 ## Welding
@@ -24,4 +27,3 @@ PLA patterns usually come off after a handful of washes, while TPU is permanent.
     <img src="{{ "assets/images/otherMain.JPG" | relative_url }}" class="articleImg" style="float:none">
     <img src="{{ "assets/images/ssgf.JPG" | relative_url }}" class="articleImg" style="float:none">
 </div>
-

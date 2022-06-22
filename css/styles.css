@@ -166,7 +166,7 @@ body{
   max-height: 400px;
   object-fit: scale-down;
   float: right;
-  padding: 16px;
+  padding: 8px;
 }
 
 .articleImgMain{
@@ -182,6 +182,7 @@ body{
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  align-content: stretch;
   gap: 16px;
   }
 

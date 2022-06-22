@@ -6,7 +6,10 @@ when: ""
 order: 3
 ---
 
+<div class="imgCptnBox" style="float:right">
 <img src="{{ "assets/images/compositesMain.JPG" | relative_url }}" class="articleImgMain">
+<figcaption class="articleCaption">6" OD carbon fiber tube</figcaption>
+</div>
 
 I'm on the composites subteam of Purdue Space Program Liquids. We're designing and manufacturing a structural carbon fiber airframe and fins.
 

@@ -5,7 +5,10 @@ imgFilename: "clubShadeMain.png"
 when: "Spring 2021"
 order: 6
 ---
+<div class="imgCptnBox" style="float:right">
 <img src="{{ "assets/images/shadeRender.png" | relative_url }}" class="articleImgMain">
+<figcaption class="articleCaption">Rendering of proposed shade covering</figcaption>
+</div>
 
 The Chevy Chase Country Club was considering a partial sun covering for their outdoor ice rink, so I created a simulation of how much of the rink would be shaded over the course of the day at different times of year.
 
@@ -27,12 +30,14 @@ The code is <a href="https://github.com/matt-lewton9/club_shade" class="link" ta
   <video controls="true" allowfullscreen="true" width="600">
     <source src="{{ "assets/videos/shade.mp4" | relative_url }}" type="video/mp4">
   </video>
+    <figcaption class="articleCaption" style="padding:8px">Shade movement map</figcaption>
 </figure>
 
 <figure>
   <video controls="true" allowfullscreen="true" width="600">
     <source src="{{ "assets/videos/heat.mp4" | relative_url }}" type="video/mp4">
   </video>
+  <figcaption class="articleCaption" style="padding:8px">Shade covering heat map</figcaption>
 </figure>
 </div>
 

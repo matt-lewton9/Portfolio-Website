@@ -6,7 +6,10 @@ imgFilename: "nasaMain.jpg"
 order: 3
 ---
 
+<div class="imgCptnBox" style="float:right">
 <img src="{{ "assets/images/nasaMain.jpg" | relative_url }}" class="articleImgMain">
+<figcaption class="articleCaption">Constructed test apparatus</figcaption>
+</div>
 
 ## Project Overview
 
@@ -22,7 +25,11 @@ There is a large temperature difference, between the soil on the moon’s surfac
 
 This can be done by extending the cold side of the thermoelectric plates with a copper "radiator cylinder" to reach depths with a high thermal conductivity, which is insulated from the sides.
 
-<img src="{{ "assets/images/teg.png" | relative_url }}" class="articleImg" style="float:left;height:300px">
+<div class="imgCptnBox" style="float:left">
+<img src="{{ "assets/images/teg.png" | relative_url }}" class="articleImg">
+<figcaption class="articleCaption">Prototype Device</figcaption>
+</div>
+
 
 ## Design 
 
@@ -30,7 +37,10 @@ To test this concept experimentally, we built a prototype device and test appara
 
 The prototype device consisted of thermoelectric generator modules at the surface, sitting on a modular radiator cylinder assembly, consisting of concentric copper cylinders which could be reconfigured for different experiments. The radiator cylinders were insulated with aerogel and enclosed in a steel pipe.
 
-<img src="{{ "assets/images/testRig.png" | relative_url }}" class="articleImg">
+<div class="imgCptnBox" style="float:right">
+<img src="{{ "assets/images/testRig.png" | relative_url }}" class="articleImgMain">
+<figcaption class="articleCaption">Test apparatus design and construction</figcaption>
+</div>
 
 For the test apparatus, we made the 16”x16”x48” vacuum chamber with 1/2” acrylic sheets, with holes for wires, pipes, and bolts cut by the supplier. The radiative heat source was three heat lamps that hung above the surface. Our lunar soil simulant was sand, which has the key property of increasing its thermal conductivity with depth. The “heat sink” was created by water in copper coils cooled to room temperature by a PID water cooling system. The coils were placed at a depth that simulates the temperature distribution of lunar soil.
 
