@@ -1,6 +1,6 @@
 <div class="navbar">
     <a  href="{{ "index.html" | relative_url  }}">Matthew Lewton</a>
-    <div class="navbarS">
+    <div class="navbarS" id = "menu">
       <a href="{{ "pages/about.html" | relative_url  }}">About</a>
       <a href="{{ "pages/blog.html" | relative_url  }}">Latest Projects</a>       
       <a href="{{ "pages/manufacturing.html" | relative_url  }}">Manufacturing</a>
@@ -13,11 +13,11 @@
 
 <script>
     function showNav() {
-      var x = document.getElementById("navbarS");
+      var x = document.getElementById("menu");
       if (x.style.display === "block") {
-        x.style.display = "none";
-      } else {
-        x.style.display = "block";
-      }
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
     }
+}
 </script>

@@ -269,7 +269,7 @@ footer {
 }
 
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 600px){
   /* place here CSS targeted at iPads and smaller, including iPhones and small hand-held devices */
   
   .navbar {
@@ -292,6 +292,7 @@ footer {
     display: block;
     text-align: left;
     overflow: hidden;
+    width: fit-content;
   }
 
   .navIcon{ 
