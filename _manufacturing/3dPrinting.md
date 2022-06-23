@@ -29,7 +29,7 @@ My 3d printing hobby projects are on Instagram <a href="https://www.instagram.co
 </div>
 
 <div class="imgCptnBox">
-<img src="{{ "assets/images/3dLock.JPG" | relative_url }}" class="articleImg">
+<img src="{{ "assets/images/3dLock.jpg" | relative_url }}" class="articleImg">
 <figcaption class="articleCaption">Pin/Tumbler lock and door handle<br>very tight fits and tolerences</figcaption>
 </div>
 

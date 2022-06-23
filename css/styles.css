@@ -298,6 +298,7 @@ margin-top: auto;
     max-width: 90%;
     max-height: 50%;
     max-width: 250px;
+    float: none;
   }
   
   .projImg{
@@ -306,8 +307,8 @@ margin-top: auto;
     padding: 0px;
   }
 
-  .projects figure{
-    padding: 0px;
+  .projects a figure img{
+    max-height: 30%;
   }
 
   .projectlabel{
