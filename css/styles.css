@@ -116,6 +116,8 @@ body{
 
 .navIcon{
   display: none;
+  width: 0px;
+  height: 0px;
 }
 
 .navbar a {
@@ -286,6 +288,8 @@ margin-top: auto;
   .navIcon{
     display: block;
     padding: 8px;
+    min-width: 1px;
+    min-height: 1px;
   }
 
   .headshotBox{
