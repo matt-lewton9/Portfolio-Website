@@ -292,7 +292,6 @@ footer {
     display: block;
     text-align: left;
     overflow: hidden;
-    width: fit-content;
   }
 
   .navIcon{ 
