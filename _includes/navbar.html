@@ -7,4 +7,19 @@
     <a href="{{ "pages/programming.html" | relative_url  }}">Programming</a>
     <a href="{{ "pages/design.html" | relative_url  }}">Design</a>
     </div>
+
+    <a onclick="showNav()" class="navIcon"><i class="fa fa-bars"></i></a>
+
 </div>
+
+
+<script>
+    function showNav() {
+      var x = document.getElementById("navbarS");
+      if (x.style.display === "block") {
+        x.style.display = "none";
+      } else {
+        x.style.display = "block";
+      }
+    }
+</script>

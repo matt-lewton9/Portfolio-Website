@@ -56,8 +56,6 @@ body{
   display: block;
 }
 
-
-
 .galleryImg img:hover, .gallery h2:hover + .galleryImg img{ 
   opacity: .3;
 }
@@ -114,6 +112,10 @@ body{
   flex-grow: 2;
   align-items: stretch;
   overflow: hidden;
+}
+
+.navIcon{
+  display: none;
 }
 
 .navbar a {
@@ -275,11 +277,22 @@ margin-top: auto;
     margin: 0px
   }
 
+  .navbarS{
+    display: none;
+    position: relative;
+    width: 100%;
+  }
+
+  .navIcon{
+    display: block;
+    padding: 8px;
+  }
+
   .headshotBox{
   display: flex; 
   flex-direction: column; 
   justify-content: center;
-  align-content: center;
+  align-items: center;
   }
 
   h1{
@@ -303,6 +316,7 @@ margin-top: auto;
 
   .headshot{
     max-width: 250px;
+    padding:16px;
   }
   
   .projImg{
