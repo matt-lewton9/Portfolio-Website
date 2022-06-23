@@ -108,7 +108,7 @@ body{
 
 .navbarS {
   display: flex;
-  flex-direction: row-reverse;
+  flex-direction: row;
   flex-grow: 2;
   align-items: stretch;
   overflow: hidden;
