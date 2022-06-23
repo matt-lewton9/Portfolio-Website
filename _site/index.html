@@ -7,8 +7,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <link href="/assets/images/icon2.png" rel="icon">
-
+    <link href="/assets/images/icon2neutral.png" rel="icon">
+     
     <title>Home - Matt Lewton</title>
 
     <link rel="stylesheet" href="/css/styles.css?">
@@ -18,13 +18,26 @@
 <div class="navbar">
     <a  href="/index.html">Matthew Lewton</a>
     <div class="navbarS">
-    <a href="/pages/about.html">About</a>
-    <a href="/pages/blog.html">Latest Projects</a>       
-    <a href="/pages/manufacturing.html">Manufacturing</a>
-    <a href="/pages/programming.html">Programming</a>
-    <a href="/pages/design.html">Design</a>
+      <a href="/pages/about.html">About</a>
+      <a href="/pages/blog.html">Latest Projects</a>       
+      <a href="/pages/manufacturing.html">Manufacturing</a>
+      <a href="/pages/programming.html">Programming</a>
+      <a href="/pages/design.html">Design</a>
     </div>
+
+    <a href="javascript:void(0);" onclick="showNav()" class="navIcon"><img src="/assets/images/menu.png"></i></a>
 </div>
+
+<script>
+    function showNav() {
+      var x = document.getElementById("navbarS");
+      if (x.style.display === "block") {
+        x.style.display = "none";
+      } else {
+        x.style.display = "block";
+      }
+    }
+</script>
 <div class="main">
     <h1 class="galleryHeader">Gallery</h1>
 <div class="gallery">
