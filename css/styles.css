@@ -112,6 +112,7 @@ body{
   flex-grow: 2;
   align-items: stretch;
   overflow: hidden;
+  justify-content: end;
 }
 
 .navIcon{
