@@ -52,7 +52,7 @@ body{
   display: none;
 }
 
-.galleryImg img:hover + .galleryText, .galleryText:hover{
+.galleryImg:hover + .galleryText, .galleryText:hover{
   display: block;
 }
 
