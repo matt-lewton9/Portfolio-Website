@@ -192,6 +192,7 @@ body{
   align-items: center;
   gap: 16px;
   flex-wrap: wrap;
+  float:right;
 }
 
 .articleCaption{
@@ -294,11 +295,14 @@ margin-top: auto;
     text-align: center;
   }
 
-  .articleImg, .articleImgMain, .headshot{
+  .articleImg, .articleImgMain{
     max-width: 90%;
     max-height: 50%;
-    max-width: 250px;
     float: none;
+  }
+
+  .headshot{
+    max-width: 250px;
   }
   
   .projImg{

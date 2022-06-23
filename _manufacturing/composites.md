@@ -6,7 +6,7 @@ when: ""
 order: 3
 ---
 
-<div class="imgCptnBox" style="float:right">
+<div class="imgCptnBox">
 <img src="{{ "assets/images/compositesMain.JPG" | relative_url }}" class="articleImgMain">
 <figcaption class="articleCaption">6" OD carbon fiber tube</figcaption>
 </div>
