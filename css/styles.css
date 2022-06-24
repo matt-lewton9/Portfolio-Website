@@ -138,6 +138,7 @@ body{
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
+  
 }
 
 .projects figure{
@@ -151,6 +152,7 @@ body{
   width: 500px;
   height: 350px;
   object-fit: scale-down;
+  
 }
 
 .projects figure:hover{
@@ -273,6 +275,10 @@ footer {
 @media screen and (max-width: 600px){
   /* place here CSS targeted at iPads and smaller, including iPhones and small hand-held devices */
   
+  .main{
+    overflow-x: hidden;
+  }
+
   .navbar {
     display: block;
     width: 100%;
@@ -308,8 +314,6 @@ footer {
     width: 100%;
   }
 
-
-
   .headshotBox{
   display: flex; 
   flex-direction: column; 
@@ -331,7 +335,7 @@ footer {
   }
 
   .articleImg, .articleImgMain{
-    max-width: 90%;
+    max-width: 80%;
     max-height: 50%;
     float: none;
   }
@@ -349,10 +353,15 @@ footer {
 
   .projects a figure img{
     max-height: 30%;
+    height: fit-content;
   }
 
   .projectlabel{
-  padding-top: 0px;
+  padding-top: 8px;
+  }
+
+  image.png{
+    max-width: 90%;
   }
 
   .footer{
