@@ -216,6 +216,7 @@ body{
   flex-wrap: wrap;
 }
 
+
 .headshot{
   object-fit: scale-down;
   padding: 0px 16px 16px 0px;
@@ -362,6 +363,10 @@ footer {
 
   image.png{
     max-width: 90%;
+  }
+
+  video {
+    width: 100%    !important;
   }
 
   .footer{
