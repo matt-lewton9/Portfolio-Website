@@ -13,7 +13,7 @@ order: 4
 
 ## Welding
 
-I've started to learn welding at Purdue's Bechtel Innovation and Design Center. After iniital training I TIG welded this soda can holder of my own design from 1/4" laser cut sheet steel. Surprisingly, the hardest part was figuring out how to hold the slats in a circular pattern as I welded them, definitely  an oversight in design.
+I've started to learn welding at Purdue's Bechtel Innovation and Design Center. After initial training I TIG welded this soda can holder of my own design from 1/4" laser cut sheet steel. Surprisingly, the hardest part was figuring out how to hold the slats in a circular pattern as I welded them, definitely  an oversight in design.
 
 <br>
 

@@ -11,10 +11,10 @@ order: 1
 <figcaption class="articleCaption">My site!</figcaption>
 </div>
 
-My latest CS project is this website! It was built using Jeckyll, allowing me to create html templates using includes. I wrote the article content in Markdown, and the pages and menus generate themselves using loops.
+I built this website from scratch as one of my summer projects. I designed custom html templates, then the article and menu pages generate themselves via loops using Jeckyll. The article content was written in Markdown files, which is easier to write in than raw html.
+ 
+I did the CSS styling myself without any libraries. I like darkmode and my favorite color is green. 
 
-The coolest part of this website, is the gallery, which is generated from a YML datafile and a Liquid loop in the html.
-
-The CSS styling was done myself without any libraries like Bootstrap. I like darkmode and my favorite color is green. 
+The coolest part of this website, is the gallery on the home page, which is generated from a YML datafile and a Liquid loop.
 
 The code is <a href="https://github.com/matt-lewton9/Portfolio-Website" class="link" target="_blank" rel="noopener noreferrer">on Github</a>.

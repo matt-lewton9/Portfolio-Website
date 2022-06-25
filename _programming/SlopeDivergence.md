@@ -10,7 +10,7 @@ order: 2
 <figcaption class="articleCaption">Example dataset and generated slope</figcaption>
 </div>
 
-I developed an iterative matlab algorithm in my Engineering 132 class to find the initial slope of a dataset. It quantifies a task usually determined by the "eye test" as two numbers, divergence tolerance and error limit, then adjusts those two values iteratively until an acceptable solution is found (No, this is not gradient ascent).
+I developed an iterative matlab algorithm in my Engineering 132 class to find the initial slope of a dataset. The algorithm quantifies "eye test" as two numbers, divergence tolerance and error limit, then adjusts those two values iteratively until an acceptable solution is found (No, this is not gradient ascent).
 
 ## How It Works
 

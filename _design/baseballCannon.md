@@ -13,7 +13,7 @@ order: 4
 
 I designed and built a baseball cannon with a group in high school. The plumbing was pvc rated to 120 PSI, and at 100 psi we successfully shot a baseball accurately at 80 mph.
 
-It was pneumatically fired. The air pump would pressurize a pvc air reservoir on the cannon. When a valve was turned, a piston would move due to pressure differential, releasing the air in the reservoir and firing the ball. Unfortunately, the 1/4" Pvc piston shattered after a handful of shots. Oops.
+It was pneumatically fired. The air pump would pressurize a pvc air reservoir on the cannon. When a valve was turned, a piston would move due to pressure differential, releasing the air in the reservoir and firing the ball. Unfortunately, the 1/4" PVC piston shattered after a handful of shots. Oops.
 
 <div class="imgCptnBox" style="flex-direction:row; float:none">
 
