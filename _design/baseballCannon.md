@@ -15,7 +15,7 @@ I designed and built a baseball cannon with a group in high school. The plumbing
 
 It was pneumatically fired. The air pump would pressurize a pvc air reservoir on the cannon. When a valve was turned, a piston would move due to pressure differential, releasing the air in the reservoir and firing the ball. Unfortunately, the 1/4" Pvc piston shattered after a handful of shots. Oops.
 
-<div class="imgCptnBox" style="flex-direction:row">
+<div class="imgCptnBox" style="flex-direction:row; float:none">
 
 <div class="imgCptnBox" style="float: none;">
 <img src="{{ "assets/images/cannon2.png" | relative_url }}" class="articleImgMain">
