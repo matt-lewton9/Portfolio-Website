@@ -272,7 +272,6 @@ footer {
   background: var(--accent2); 
 }
 
-
 @media screen and (max-width: 700px){
   /* place here CSS targeted at iPads and smaller, including iPhones and small hand-held devices */
   
@@ -353,6 +352,10 @@ footer {
   }
 
   .projects a{
+    height: fit-content;
+  }
+
+  .projects figure{
     height: fit-content;
   }
 
