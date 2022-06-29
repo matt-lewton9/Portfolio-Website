@@ -17,4 +17,4 @@ We made our carbon fiber tubes with wet layup vacuum bagging around a mandrel. H
 
 I am using Ansys ACP to design and simulate the strength of composite airframes. We will be running experimental tests to validate the accuracy of our simulations before making the final airframe.
 
-This summer, I am running a subscale version of next semester's design-simulate-validate test campaign with a fiberglass airframe on an L1 high power solid rocket.
+This summer, I am running a subscale version of next semester's design-simulate-validate test campaign with a fiberglass airframe on an L1 high power solid rocket. Check out <a href="{{ "https://mattlewton.me/pages/blog.html" | relative_url }}" class="link" >Latest Projects</a> for updates!
