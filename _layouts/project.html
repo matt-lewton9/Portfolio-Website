@@ -7,11 +7,13 @@ layout: default
 
 <div class="projectPage">{{ content }}</div>
 
-  <ul>
-    <li>
-      <a href="{{ collection.previous_product.title }}">Previous Project</a>
-    </li>
-    <li>
-      <a href="{{ collection.next_product.title }}">Next Project</a>
-    </li>
-  </ul>
+<div>
+    {% paginate pages by 3 %}
+    <div>
+        <a href="{{ pages.next.url }}">Previous Project</a>
+    </div>
+      
+    <div>
+        <a href="{{ pages.previous.url }}">Previous Project</a>
+    </div>
+</div>
