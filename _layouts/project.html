@@ -6,11 +6,3 @@ layout: default
 <p>{{ page.date }}</p>
 
 <div class="projectPage">{{ content }}</div>
-
-{{paginator.total_pages}}
-
-<div>
-    <div>
-        <a href = {{paginator.next_page_path | relative_url}}>Next Page</a>
-    </div>
-</div>
