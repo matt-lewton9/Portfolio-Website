@@ -6,3 +6,14 @@ layout: default
 <p>{{ page.date }}</p>
 
 <div class="projectPage">{{ content }}</div>
+
+{%- if section.settings.blog_show_previous_and_next_buttons -%}
+  <ul>
+    <li>
+      <a href="{{ blog.previous_article }}">Previous Project</a>
+    </li>
+    <li>
+      <a href="{{ blog.next_article }}">Next Project</a>
+    </li>
+  </ul>
+{%- endif -%}
