@@ -17,7 +17,7 @@ The tabletop uses an origami folding pattern, and the legs are completely collap
 
 This was my first real engineering project, as I learned how to design in CAD, 3D print, and do structural FEA on my own over the course of the semester.
 
-<div class="imgCptnBox" style="flex-direction:row;justify-content:center;">
+<div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap;">
 
 <div class="imgCptnBox">
 <img src="{{ "assets/images/table2.png" | relative_url }}" class="articleImg">
