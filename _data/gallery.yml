@@ -3,9 +3,9 @@ images:
     description: CNC Machining
     link: /manufacturing/cncMachining.html
 
-  - name: cncMain.png
-    description: Desktop CNC Mill
-    link: /design/DesktopCNC.html
+# - name: cncMain.png
+#    description: Desktop CNC Mill
+#    link: /design/DesktopCNC.html
 
   - name: nasaMain.jpg
     description: NASA MINDS
