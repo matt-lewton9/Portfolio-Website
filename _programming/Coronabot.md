@@ -21,16 +21,16 @@ It functions as a music bot with the standard features of playing, queueing, ski
 
 It also has a built in soundboard, which the user can populate with their own MP3 files, as well as text-to-speech in voice calls for those without microphones. For server admins it has a "manual mode" hidden command, where you can send messages as the bot, usually from a hidden admin channel. Lastly, just for fun, it always monitors text channels to respond with dad jokes. If I said "I'm hungry.", it would say "Hi Hungry, I'm Dad."
 
+<div class="imgCptnBox" style="float:right">
+<img src="{{ "assets/images/countBot.png" | relative_url }}" class="articleImgMain">
+<figcaption class="articleCaption">Usage of a server by my friends</figcaption>
+</div>
+
 ## Other Bots
 
 I also made a few smaller bots for niche projects:
 
 ScrapeBot collected messages from a server to get training data for my friend's natural language project. It compiled 100,000+ messages from our server into a formatted text file. The messages had to be filtered to meet certain format requirements such as minimum length, removing pings, and no URLs.
-
-<div class="imgCptnBox" style="float:right">
-<img src="{{ "assets/images/countbot.png" | relative_url }}" class="articleImgMain">
-<figcaption class="articleCaption">Usage of a server by my friends</figcaption>
-</div>
 
 <a href="https://github.com/matt-lewton9/Coronabot" class="link" target="_blank" rel="noopener noreferrer">CountBot</a> returns the number of messages sent by each user by date, which allows you to map user activity, which is pretty interesting. 
 

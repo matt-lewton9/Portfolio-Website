@@ -33,4 +33,5 @@ This was my first real engineering project, as I learned how to design in CAD, 3
 <img src="{{ "assets/images/leg.png" | relative_url }}" class="articleImg">
 <figcaption class="articleCaption">Printed leg, print-in-place assembly (see 3D printing)</figcaption>
 </div>
+
 </div>
