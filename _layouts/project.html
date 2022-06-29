@@ -7,14 +7,12 @@ layout: default
 
 <div class="projectPage">{{ content }}</div>
 
-<div>
-    {% paginate pages by 3 %}
-    <div>
-        <a href="{{ pages.next.url }}">Previous Project</a>
-    </div>
-      
-    <div>
-        <a href="{{ pages.previous.url }}">Previous Project</a>
-    </div>
-    {% endpaginate %}
-</div>
+{% paginate pages by 5 -%}
+  {% for part in paginate.parts -%}
+    {% if part.is_link -%}
+      {{ part.title | link_to: part.url}}
+    {%- else -%}
+      <span>{{ part.title }}</span>
+    {% endif %}
+  {%- endfor %}
+{%- endpaginate %}
