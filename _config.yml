@@ -25,5 +25,5 @@ exclude:
 - README.md
 - .gitignore
 
-plugins:
-- jekyll-paginate
+gems:
+  - jekyll-paginate-v2
