@@ -24,6 +24,3 @@ exclude:
 - LICENSE
 - README.md
 - .gitignore
-
-gems:
-  - jekyll-paginate-v2
