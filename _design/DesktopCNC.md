@@ -8,7 +8,7 @@ order: 1
 
 ## Overview
 
-Over the summer of 2022, I set out to make my own desktop CNC mill to machine small aluminum parts. Originally, I wanted it to be about the size of a 3D printer, cost around $500. However, after researching similar projects and creating a few designs, I realized that I couldn't really make a machine worth $500 for $500. My costs are also way higher off campus during the summer without access to a full machine shop and all the free aluminum and steel I could want. 
+Over the summer of 2022, I set out to make my own desktop CNC mill to machine small aluminum parts. Originally, I wanted it to be about the size of a 3D printer, cost around $500. However, after researching similar projects and a few design iterations, I realized that I couldn't really make a machine worth $500 for $500. My costs are also way higher off campus during the summer without access to a full machine shop and all the free aluminum and steel I could want. 
 
 Although nothing was built, designing these mills was very fun, and a valuable experience. This was my first time designing specifically for rigidity, which was a new way of thinking about a design for me. The electronics and control side of this project was also completely foreign to me, so designing the system and sourcing components was tough, but necessary exposure. This was also a trial-by-fire initiation to Solidworks, which I love, and is now my preferred CAD package. The assembly all parts were defined by master sketches in the front, right, and top planes. This method was very robust, and it's how I'm doing all my assemblies from now on.
 
