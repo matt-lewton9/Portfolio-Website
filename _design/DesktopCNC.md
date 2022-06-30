@@ -12,7 +12,7 @@ Over the summer of 2022, I set out to make my own desktop CNC mill to machine sm
 
 Although nothing was built, designing these mills was very fun, and a valuable experience. This was my first time designing specifically for rigidity, which was a new way of thinking about a design for me. The electronics and control side of this project was also completely foreign to me, so designing the system and sourcing components was tough, but necessary exposure. This was also a trial-by-fire initiation to Solidworks, which I love, and is now my preferred CAD package. The assembly all parts were defined by master sketches in the front, right, and top planes. This method was very robust, and it's how I'm doing all my assemblies from now on.
 
-The right way to do this project, is to make something slightly smaller than a Tormach for $3,000-$5,000, which would also be capable of cutting steel. I would like to attempt this before I graduate and lose access to the machine shop. 
+The right way to do this project, is to make something significantly larger for $3,000-$5,000, which would also be capable of cutting steel. I would like to attempt this before I graduate and lose access to the machine shop. 
 
 <div class="imgCptnBox" style="float:right">
 <img src="{{ "assets/images/cncMain.png" | relative_url }}" class="articleImgMain">
