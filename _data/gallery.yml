@@ -3,30 +3,26 @@ images:
     description: CNC Machining
     link: /manufacturing/cncMachining.html
 
-# - name: cncMain.png
-#    description: Desktop CNC Mill
-#    link: /design/DesktopCNC.html
-
   - name: nasaMain.jpg
     description: NASA MINDS
     link: design/nasaMinds.html
-
-  - name: 3dpMain2.JPG
-    description: 3D Printing
-    link: /manufacturing/3dPrinting.html
 
   - name: compositesMain.JPG
     description: Composites
     link: /manufacturing/composites.html
 
-  - name: coronabotMain.png
-    description: Discord Bots
-    link: /programming/Coronabot.html
+  - name: 3dpMain2.JPG
+    description: 3D Printing
+    link: /manufacturing/3dPrinting.html
 
   - name: cncMain2.JPG
     description: CNC Machining
     link: /manufacturing/cncMachining.html
     
+ - name: cncMain.png
+    description: Desktop CNC Mill
+    link: /design/DesktopCNC.html
+
   - name: clubShadeMain.png
     description: Ice Rink Shade
     link: /programming/clubShade.html
@@ -34,6 +30,10 @@ images:
   - name: voronoi.JPG
     description: 3D Printing
     link: /manufacturing/3dPrinting.html
+
+  - name: coronabotMain.png
+    description: Discord Bots
+    link: /programming/Coronabot.html
 
   - name: otherMain2.JPG
     description: Welding
