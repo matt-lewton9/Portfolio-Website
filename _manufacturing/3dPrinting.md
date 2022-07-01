@@ -6,7 +6,7 @@ imgFilename: "3dpMain2.JPG"
 order: 2
 ---
 
-I've been FDM 3D printing since high school. I mostly print mechanical parts, and I'm able to consistently get clearance, transition, and interference fits. 
+I've been FDM 3D printing since high school. I mostly print mechanical parts, and I'm able to consistently get clearance, transition, and interference fits for tight fittig assemblies. 
 
 I've been very interested in print-in-place assemblies, where all the parts are printed in a pre-assembled arrangement, and they come off the printer as a moving assembly.
 

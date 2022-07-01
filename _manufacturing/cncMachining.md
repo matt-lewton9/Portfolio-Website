@@ -6,7 +6,7 @@ imgFilename: "cncMain.jpg"
 order: 1
 ---
 
-I work as a Peer Mentor at the Bechtel Innovation Design Center (BIDC) at Purdue. I'm functionally a student machinist, and mentor users of the manufacturing shop in the fabrication and design of their projects. I advise students while they create their CAM, and guide them through using the machines. I’m also on the Purdue Space Program Liquids (PSP-L) manufacturing team, where I make flight hardware for our vehicle.
+I work as a Peer Mentor at the Bechtel Innovation Design Center (BIDC) at Purdue. I'm functionally a student machinist, and mentor users of the manufacturing shop in the fabrication and design of their projects. I advise students while they create their CAM, and guide them through using the machines. I’m also on the Purdue Space Program Liquids manufacturing team, where I make flight hardware for our vehicle.
 
 At BIDC, I've had the opportunity to work with manual mills, a Haas VF-2 and a 5 axis VF-4 mill, and Haas ST-20 CNC lathes.
 

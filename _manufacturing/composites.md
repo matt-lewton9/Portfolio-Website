@@ -13,7 +13,7 @@ order: 3
 
 I'm on the composites subteam of Purdue Space Program Liquids. We're designing and manufacturing a structural carbon fiber airframe and fins.
 
-We made our carbon fiber tubes with wet layup vacuum bagging around a mandrel. However, we have had issues with resin density and wrinkles, so we will be pivoting to oven cured prepreg fabric in a two piece vacuum bagged mold.
+We started by makinmng carbon fiber tubes with wet layup vacuum bagging around a mandrel. However, we have had issues with fiber volume fractoion and wrinkling, so we will be moving to oven cured prepreg fabric in a two piece vacuum bagged mold.
 
 I am using Ansys ACP to design and simulate the strength of composite airframes. We will be running experimental tests to validate the accuracy of our simulations before making the final airframe.
 
