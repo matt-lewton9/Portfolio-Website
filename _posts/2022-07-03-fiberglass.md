@@ -4,14 +4,14 @@ title: Fiberglass tube Manufacturing
 excerpt_separator: <!--more-->
 ---
 
+I made interior molded mandrel wrapped fiberglass tubes to compare the manufacturing difficulty of each method. After they are cured, I'll also do a compressive test to compare their strengths. All of these were wet layups sized for my L1 rocket's airframe, but they're also an early test of manufacturing processes for PSP liquids, which would use prepreg with a vacuum bag. 
+
+<!--more-->
+
 <div class="imgCptnBox" style="float:right">
 <img src="{{ "assets/images/mold1.png" | relative_url }}" class="articleImgMain">
 <figcaption class="articleCaption">Molds, fiberglass pieces, and peel ply prepared for layup</figcaption>
 </div>
-
-I made interior molded mandrel wrapped fiberglass tubes to compare the manufacturing difficulty of each method. After they are cured, I'll also do a compressive test to compare their strengths. All of these were wet layups sized for my L1 rocket's airframe, but they're also an early test of manufacturing processes for PSP liquids, which would use prepreg with a vacuum bag. 
-
-<!--more-->
 
 Both tubes are 8" long, 2" OD tubes with 4 layers of fiberglass at 0 degrees in a wet layup. Both tubes used mold release film, 3D printed tooling, and peel ply on the outermost layer
 
