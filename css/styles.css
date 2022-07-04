@@ -314,6 +314,14 @@ footer {
     width: 100%;
   }
 
+  .galleryText{
+    display:block;
+    padding: 8px 0px;
+    background: rgb(34, 34, 34, .7);
+    width: 100%;
+    top:75%;
+  }
+
   .headshotBox{
   display: flex; 
   flex-direction: column; 
