@@ -54,7 +54,7 @@ Preparing the fiberglass with this method took a lot longer, since each piece ha
 
 <div class="imgCptnBox">
 <img src="{{ "assets/images/mandrel.png" | relative_url }}" class="articleImgMain">
-<figcaption class="articleCaption">Molded fiberglass after balloon</figcaption>
+<figcaption class="articleCaption">Fiberglass on mandrel</figcaption>
 </div>
 
 ## Mandrel Wrap

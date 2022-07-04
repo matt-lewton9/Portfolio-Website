@@ -11,8 +11,15 @@ title: Home
     </div>
     <div class="mainSplitBox">
         <a href="{{ "pages/blog.html" | relative_url  }}"><h1 class="maintext">Latest Projects</h1></a>
-        {%- for post in site.posts limit:3 -%}
-        {%- include excerpt.html -%}
-        {%- endfor -%}
-    </div>
+        <div style="display: flex; flex-direction: column;">
+            {%- for post in site.posts limit:2 -%}
+            <div>
+                {%- include excerpt.html -%}
+            </div>
+            {%- endfor -%}
+
+        <a href="{{ "pages/blog.html" | relative_url  }}"><h2 class="link">More!</h2></a>
+    
+        </div>
+        </div>
 </div>
