@@ -52,11 +52,11 @@ body{
   display: none;
 }
 
-.galleryImg img:hover + .galleryText, .galleryText:hover{
+.galleryImg:hover > h2{
   display: block;
 }
 
-.galleryImg img:hover, .galleryText:hover + .galleryImg img{ 
+.galleryImg:hover > img{ 
   opacity: .3;
 }
 
