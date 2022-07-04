@@ -50,6 +50,7 @@ body{
   left: 50%;
   transform: translate(-50%, -50%);
   display: none;
+  font-size: -webkit-xxx-large;
 }
 
 .galleryImg:hover > h2{
@@ -319,7 +320,8 @@ footer {
     padding: 8px 0px;
     background: rgb(34, 34, 34, .7);
     width: 100%;
-    top:75%;
+    top:60%;
+    font-size:32px;
   }
 
   .headshotBox{

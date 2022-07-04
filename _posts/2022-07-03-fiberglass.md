@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fiberglass tube Manufacturing
+title: Fiberglass Tube Manufacturing
 excerpt_separator: <!--more-->
 ---
 
@@ -16,7 +16,7 @@ I made interior molded mandrel wrapped fiberglass tubes to compare the manufactu
 Both tubes are 8" long, 2" OD tubes with 4 layers of fiberglass at 0 degrees in a wet layup. Both tubes used mold release film, 3D printed tooling, and peel ply on the outermost layer
 
 ## Interior Molding
-I used a method I saw on <a href="https://www.easycomposites.co.uk/learning/split-mould-carbon-fibre-tube" class="link" target="_blank" rel="noopener noreferrer">Easy Composites</a>, where the layers on each side of the mold are staggered, so the seam where the two halves overlap is different for each layer. 
+I used a method from <a href="https://www.easycomposites.co.uk/learning/split-mould-carbon-fibre-tube" class="link" target="_blank" rel="noopener noreferrer">Easy Composites</a>, where the layers on each side of the mold are staggered, so the seam where the two halves overlap is different for each layer. 
 
 One half of the mold has fiberglass extending beyond the top face of the mold, and the other side has fiberglass lower than the sides of the mold. Each layer inward is either larger or smaller than the last, creating a staggered pattern that does not concentrate the seam on any one spot. My "higher side" (right) had each consecutive layer increase by .25"  My "lower side" (left) had layer size decrease by .125". These increments are similar to the 5 mm and 3 mm increments used by Easy Composites.
 
