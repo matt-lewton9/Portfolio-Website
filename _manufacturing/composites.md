@@ -23,7 +23,7 @@ This summer, I am running a subscale version of next semester's design-simulate-
 
 <div class="imgCptnBox">
 <img src="{{ "assets/images/vacuum.jpg" | relative_url }}" class="articleImgMain">
-<figcaption class="articleCaption">6" OD carbon fiber tube</figcaption>
+<figcaption class="articleCaption">Large vacuum bagged part</figcaption>
 </div>
 
 </div>
