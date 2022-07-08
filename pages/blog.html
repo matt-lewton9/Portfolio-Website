@@ -7,6 +7,9 @@ title: Latest Projects
 
 <div>
   {% for post in site.posts %}
-  {% include excerpt.html %}
+  <div>
+    {% include excerpt.html %}
+    <img src="{{post.image | relative_url }}"  class="articleImgMain">
+  </div>
   {% endfor %}
 </div>
