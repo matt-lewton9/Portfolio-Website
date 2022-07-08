@@ -2,7 +2,7 @@
 layout: post
 title: Fiberglass Tube Manufacturing
 excerpt_separator: <!--more-->
-image: mold1.png
+image: assets/images/mold1.png
 ---
 
 I made interior molded and mandrel wrapped fiberglass tubes to compare the manufacturing difficulty of each method. These were wet layups sized for my L1 rocket's airframe, but they're also an early test of manufacturing processes for PSP liquids, which would use prepreg with a vacuum bag. 
