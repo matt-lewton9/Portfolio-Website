@@ -5,13 +5,13 @@ title: Home
 {% include gallery.html %}
 
 <div class="mainSplit">
-    <div class="mainSplitBox">
+    <div class="mainSplitBox" style="flex-shrink: 1.2;">
         <a href="{{ "pages/about.html" | relative_url  }}""><h1 class="maintext" >About Me</h1></a>
         {% include bio.html %}
     </div>
     <div class="mainSplitBox">
         <a href="{{ "pages/blog.html" | relative_url  }}"><h1 class="maintext">Latest Projects</h1></a>
-        <div style="display: flex; flex-direction: column;">
+        <div style="display: flex; flex-direction: column">
             {%- for post in site.posts limit:2 -%}
             <div>
                 {%- include excerpt.html -%}
