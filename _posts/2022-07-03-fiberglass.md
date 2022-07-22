@@ -17,9 +17,7 @@ I made interior molded and mandrel wrapped fiberglass tubes to compare the manuf
 Both tubes are 8" long, 2" OD tubes with 4 layers of fiberglass at 0 degrees in a wet layup. Both tubes used mold release film, 3D printed tooling, and peel ply on the outermost layer
 
 ## Interior Molding
-I used a method from <a href="https://www.easycomposites.co.uk/learning/split-mould-carbon-fibre-tube" class="link" target="_blank" rel="noopener noreferrer">Easy Composites</a>, where the layers on each side of the mold are staggered, so the seam where the two halves overlap is different for each layer. 
-
-One half of the mold has fiberglass extending beyond the top face of the mold, and the other side has fiberglass lower than the sides of the mold. Each layer inward is either larger or smaller than the last, creating a staggered pattern that does not concentrate the seam on any one spot. My "higher side" (right) had each consecutive layer increase by .25"  My "lower side" (left) had layer size decrease by .125". These increments are similar to the 5 mm and 3 mm increments used by Easy Composites.
+I used a method from <a href="https://www.easycomposites.co.uk/learning/split-mould-carbon-fibre-tube" class="link" target="_blank" rel="noopener noreferrer">Easy Composites</a>, where the seam is created by extending the fiberglass on one side of the mold to overlap with fiberglass lower than the other side of the mold. Each layer inward is larger on the extended side or smaller on the lower side, than the last layer, creating astaggered pattern that does not concentrate the seam on one spot. My extended side had each consecutive layer increase by .25”, and my lower side had layer size decrease by .125”, which are similar to the 5 mm and 3 mm increments used by Easy Composites.
 
 Each layer on each half of the mold is a seperate piece of fiberglass, so for this 4 layer tube, I prepared 8 pieces of fiberglass. I used a method where you pull out one thread to create a cut line that doesn't cross over threads. I was disappointed by the quality control on Fiberglast's 4 oz fiberglass, since it had several spots where the weave was stretched. Since it was a plain weave, handling was easy, but achieving decent fiber alignment was very difficult. This is an issue with any wet layup, and can be solved by using prepreg or a tighter weave, as was clear that this fabric was designed for draping.
 
@@ -29,9 +27,14 @@ In all previous wet layups I've done, I always wish I added more epoxy. I finall
 
 To put the mold halves together, I bent the protruding fiberglass on the extended half inward, and put the two halves of the mold together very carefully (the molds had alignment pins, a MUST). This took a few attempts, to ensure that none of the fiberglass was pinched by the mold. I then used a popsicle stick to smooth the seam with more epoxy. 
 
-Adding peel ply to the mold was tricky. I made two pieces of peel ply, each .25" larger than the mold halves. I put the peel ply on the extended  side mold normally, but I couldn't on the smaller half. Since fiberglass is smaller than the walls of the mold, the peel ply would completely cover the fiberglass, not allowing the material on the extended side to bond. To fix this, I folded the peel ply and placed it in the center of the recessed mold. Once the mold was closed, I was able to unfold the peel ply, smooth it, and add resin with a popsicle stick. 
+Adding peel ply to the mold was tricky. I cut two pieces of peel ply, each .25” larger than the mold halves. I put the peel ply on the extended side mold normally, but I couldn’t on the lower side. Since fiberglass is smaller than the walls of the mold, the peel ply would completely cover the fiberglass, not allowing the material on the extended side to bond. Instead, I folded the peel ply and placed it in the center of the lower fiberglass. Once the mold was closed, I was ableto unfold the peel ply inside the mold with a dowel and smooth out any bubbles.
 
 <div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap;">
+
+<div class="imgCptnBox">
+<img src="{{ "assets/images/overlap.png" | relative_url }}" class="articleImgMain">
+<figcaption class="articleCaption">4 staggered layers on “higher side”</figcaption>
+</div>
 
 <div class="imgCptnBox">
 <img src="{{ "assets/images/mold2.png" | relative_url }}" class="articleImgMain">
