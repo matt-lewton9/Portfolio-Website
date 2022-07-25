@@ -3,7 +3,7 @@ layout: project
 title: Baseball Air Cannon
 when: "Fall 2019"
 imgFilename: "cannon.jpg"
-order: 4
+order: 5
 ---
 
 <div class="imgCptnBox" style="float:right">

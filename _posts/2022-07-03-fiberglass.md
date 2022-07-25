@@ -36,6 +36,7 @@ Adding peel ply to the mold was tricky. I cut two pieces of peel ply, each .25�
 <figcaption class="articleCaption">4 staggered layers on “higher side”</figcaption>
 </div>
 
+
 <div class="imgCptnBox">
 <img src="{{ "assets/images/mold2.png" | relative_url }}" class="articleImgMain">
 <figcaption class="articleCaption">Molded fiberglass before balloon</figcaption>

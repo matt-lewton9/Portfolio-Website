@@ -3,7 +3,7 @@ layout: project
 title: Folding Table Senior Project
 when: "Fall 2019 - Spring 2020"
 imgFilename: "tableMain.png"
-order: 3
+order: 4
 ---
 
 <div class="imgCptnBox" style="float:right">
