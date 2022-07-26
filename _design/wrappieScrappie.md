@@ -17,8 +17,8 @@ I will be flying Wrappie Scrappie this fall with a G78 motor to 2,000 ft this fa
 
 Wrappie Scrappie uses two bulkheads to connect three 8" fiberglass tubes. Avionics are sealed in the 3d printed nose cone, and the motor is housed in a replaceable motor housing, which allows for motors of different diameters and lengths to be flown in this rocket.
 
-<div class="imgCptnBox" style="text-align:center,float:none;width:700px;">
-<img src="{{ "assets/images/wrappieCad.png" | relative_url }}" class="articleImgMain">
+<div class="imgCptnBox" style="text-align:center;float:none;width:700px;">
+<img src="{{ "assets/images/wrappieCad.png" | relative_url }}" class="articleImgMain",style="max-width:750px">
 <figcaption class="articleCaption">Wrappie Scrappie CAD section view</figcaption>
 </div>
 
@@ -26,7 +26,7 @@ Wrappie Scrappie uses two bulkheads to connect three 8" fiberglass tubes. Avioni
 
 <div class="imgCptnBox" style="float:right">
 <img src="{{ "assets/images/motorAssy.png" | relative_url }}" class="articleImgMain">
-<figcaption class="articleCaption">Motor housing CAD section view<br>Motor bulkhead/screw, centering ring, motor, motor retainer (left to right)</figcaption>
+<figcaption class="articleCaption">Motor housing CAD section view</figcaption>
 </div>
 
 The motor housing is a replaceable assembly that secures the motor, transfers thrust into the airframe, and allows for gas from the ejection charge to reach the recovery bay. The motor is held in place by the motor retainer, which presses the lip on the motor's base against the cardboard tube with a threaded cap. The thrust is transferred by the cardboard tube, aligned by a thick centering ring, into the motor bulkhead. The cardboard tube has 3d printed threads at the top which allow the entire assembly to screw into the motor bulkhead. The motor bulkhead has a large hole, allowing the ejection charge to reach the recovery bay.
@@ -35,7 +35,7 @@ The motor housing is a replaceable assembly that secures the motor, transfers th
 
 <div class="imgCptnBox" style="float:right">
 <img src="{{ "assets/images/nosecone.png" | relative_url }}" class="articleImgMain">
-<figcaption class="articleCaption">Motor housing CAD section view<br>Ballast Cavity, avionics panel, nosecone eye bolt (left to right)</figcaption>
+<figcaption class="articleCaption">Motor housing CAD section view</figcaption>
 </div>
 
 The nosecone serves the function of housing both avionics and ballast. The nose tip is a hollow part with a plug, creating a "ballast cavity" for lead weights that won't shift much during flight. Modeling clay can also be put in the nosecone to keep the ballast from shifting. The avionics are secured to the "avionics panel", which screws into the nosecone. This keeps the avionics isolated, and protected from the ejection charge and wind gusts during descent. The nosecone eyebolt for recovery is secured to the bottom of the avionics panel, and keeps the nosecone attached to the rocket after the parachute is deployed. The hole at the base of the avionics panel is for the battery, which is secured by the side struts and a zip tie.
