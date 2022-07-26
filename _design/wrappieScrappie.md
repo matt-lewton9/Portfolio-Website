@@ -8,7 +8,7 @@ order: 1
 
 <div class="imgCptnBox" style="float:right">
 <img src="{{ "assets/images/wrappie.jpg" | relative_url }}" class="articleImgMain">
-<figcaption class="articleCaption">Wrappie Scrappie without motor housing installed</figcaption>
+<figcaption class="articleCaption">Wrappie Scrappie and motor housing</figcaption>
 </div>
 
 Wrappie Scrappie is an L1 high powered rocket with a homemade fiberglass airframe and fins to learn composite manufacturing techniques, which has been documented in <a href="https://mattlewton.me/2022/07/03/fiberglass.html" class="link" target="_blank" rel="noopener noreferrer">_latest projects_</a>. It is 35" tall, has a 2" diameter, and weighs 550 grams without a motor. Wrappie was designed in OpenRocket for aero design and flight simulations, as well as Solidworks for structures.
@@ -17,7 +17,7 @@ I will be flying Wrappie Scrappie this fall with a G78 motor to 2,000 ft this fa
 
 Wrappie Scrappie uses two bulkheads to connect three 8" fiberglass tubes. Avionics are sealed in the 3d printed nose cone, and the motor is housed in a replaceable motor housing, which allows for motors of different diameters and lengths to be flown in this rocket.
 
-<div class="imgCptnBox" style="text-align:center">
+<div class="imgCptnBox" style="text-align:center,float:none;width:700px;">
 <img src="{{ "assets/images/wrappieCad.png" | relative_url }}" class="articleImgMain">
 <figcaption class="articleCaption">Wrappie Scrappie CAD section view</figcaption>
 </div>
@@ -25,7 +25,7 @@ Wrappie Scrappie uses two bulkheads to connect three 8" fiberglass tubes. Avioni
 ## Motor Housing
 
 <div class="imgCptnBox" style="float:right">
-<img src="{{ "assets/images/wrappieCad.png" | relative_url }}" class="articleImgMain">
+<img src="{{ "assets/images/motorAssy.png" | relative_url }}" class="articleImgMain">
 <figcaption class="articleCaption">Motor housing CAD section view<br>Motor bulkhead/screw, centering ring, motor, motor retainer (left to right)</figcaption>
 </div>
 
@@ -38,7 +38,7 @@ The motor housing is a replaceable assembly that secures the motor, transfers th
 <figcaption class="articleCaption">Motor housing CAD section view<br>Ballast Cavity, avionics panel, nosecone eye bolt (left to right)</figcaption>
 </div>
 
-The nosecone serves the function of housing both avionics and ballast. The nose tip is a hollow part with a plug, creating a "ballast cavity" for lead weights that won't shift much during flight. Modeling clay can also be put in the nosecone to keep the ballast from shifting. The avionics are secured to the "avionics panel", which screws into the nosecone. This keeps the avionics isolated, and protected from the black powder charges and wind gusts during descent. The nosecone eyebolt for recovery is secured to the bottom of the avionics panel, and keeps the nosecone attached to the rocket after the parachute is deployed. The hole at the base of the avionics panel is for the battery, which is secured by the side struts and a zip tie.
+The nosecone serves the function of housing both avionics and ballast. The nose tip is a hollow part with a plug, creating a "ballast cavity" for lead weights that won't shift much during flight. Modeling clay can also be put in the nosecone to keep the ballast from shifting. The avionics are secured to the "avionics panel", which screws into the nosecone. This keeps the avionics isolated, and protected from the ejection charge and wind gusts during descent. The nosecone eyebolt for recovery is secured to the bottom of the avionics panel, and keeps the nosecone attached to the rocket after the parachute is deployed. The hole at the base of the avionics panel is for the battery, which is secured by the side struts and a zip tie.
 
 ## Recovery
 
@@ -51,7 +51,7 @@ The fins are .060" thick 3d prints, reinforced by 3 layers of fiberglass on each
 <div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap;">
 
 <div class="imgCptnBox">
-<img src="{{ "assets/images/finJig" | relative_url }}" class="articleImgMain">
+<img src="{{ "assets/images/finJig.jpg" | relative_url }}" class="articleImgMain">
 <figcaption class="articleCaption">Fins in fin alignment jig</figcaption>
 </div>
 
