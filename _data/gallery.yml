@@ -7,13 +7,13 @@ images:
     description: NASA MINDS
     link: design/nasaMinds.html
 
-  - name: wrappie.jpg
-    description: Wrappie Scrappie L1 Rocket
-    link: design/wrappieScrappie.html
-
   - name: compositesMain.JPG
     description: Composites
     link: /manufacturing/composites.html
+
+  - name: wrappie.jpg
+    description: Wrappie Scrappie L1 Rocket
+    link: design/wrappieScrappie.html
 
   - name: 3dpMain2.JPG
     description: 3D Printing
