@@ -18,7 +18,7 @@ I will be flying Wrappie Scrappie this fall with a G78 motor to 2,000 ft this fa
 Wrappie Scrappie uses two bulkheads to connect three 8" fiberglass tubes. Avionics are sealed in the 3d printed nose cone, and the motor is housed in a replaceable motor housing, which allows for motors of different diameters and lengths to be flown in this rocket.
 
 <div class="imgCptnBox" style="text-align:center;float:none;width:750px;">
-<img src="{{ "assets/images/wrappieCad.png" | relative_url }}" class="articleImgMain" style="max-width:750px">
+<img src="{{ "assets/images/wrappieCad.png" | relative_url }}" class="articleImgMain" style="max-width:70vh">
 <figcaption class="articleCaption">Wrappie Scrappie CAD section view</figcaption>
 </div>
 
