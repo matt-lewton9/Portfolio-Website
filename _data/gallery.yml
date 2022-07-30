@@ -51,6 +51,10 @@ images:
     description: Folding Table
     link: /design/foldingTable.html
 
+  - name: roomateMain.png
+    description: Roommate Matcher
+    link: /programming/roomate.html
+
   - name: cannon.jpg
     description: Baseball Cannon
     link: /design/baseballCannon.html
