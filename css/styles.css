@@ -238,6 +238,10 @@ body{
   max-height: 100%;
 }
 
+.excerpt p{
+  width: 70%;
+}
+
 .navbar a:hover {
   background-color: var(--mainAccent);
 }
@@ -405,6 +409,10 @@ footer {
     
   .excerpt img{
       float: none;
+    }
+
+  .more{
+    text-align: center;
     }
 
   .footer{
