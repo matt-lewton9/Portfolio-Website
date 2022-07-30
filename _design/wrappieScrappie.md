@@ -44,7 +44,7 @@ The nosecone serves the function of housing both avionics and ballast. The nose 
 
 ## Recovery
 
-Wrappie's recovery is a single stage main chute that is deployed by a timed ejection charge at apogee. On deployment, the nosecone separates, pulling the main chute from the recovery bay. The parachute, nosecone, and rocket are attached to a 3 way swivel by seperate lines. The 3d printed bulkheads, threads and steel eyebolts were tested with static loads to support up to 80 Gs of deceleration on deployment. This is a very simple recovery system, and I understand that the rocket will drift significantly on descent. However, I will be crushed if I lose this rocket, so I decided to keep it simple stupid.
+Wrappie's recovery is a single stage main chute that is deployed by a timed ejection charge at apogee. On deployment, the nosecone separates, pulling the main chute from the recovery bay. The parachute, nosecone, and rocket are connected by a 3-way swivel . The 3d printed bulkheads, threads and steel eyebolts were tested with static loads to support up to 80 Gs of deceleration on deployment. This is a very simple recovery system, and I understand that the rocket will drift significantly on descent. However, I will be crushed if I lose this rocket, so I decided to keep it simple stupid.
 
 ## Fins
 
