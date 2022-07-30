@@ -22,7 +22,11 @@ images:
   - name: cncMain2.JPG
     description: CNC Machining
     link: /manufacturing/cncMachining.html
-    
+  
+  - name: pizzaOven.png
+    description: Pizza Oven
+    link: /2022/07/30/Pizza_Oven.html
+
   - name: cncMain.png
     description: Desktop CNC Mill
     link: /design/DesktopCNC.html

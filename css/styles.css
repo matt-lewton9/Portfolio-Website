@@ -225,7 +225,7 @@ body{
 }
 
 .excerpt{
-  height: fit-content;
+  height: 25vh;
   padding: 24px;
   width: 90%;
 }
@@ -413,6 +413,7 @@ footer {
 
   .more{
     text-align: center;
+    padding-top: 32px;
     }
 
   .footer{
