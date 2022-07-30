@@ -31,7 +31,7 @@ This was my first real engineering project, as I learned how to design in CAD, 3
 
 <div class="imgCptnBox">
 <img src="{{ "assets/images/leg.png" | relative_url }}" class="articleImg">
-<figcaption class="articleCaption">Printed leg, print-in-place assembly (see 3D printing)</figcaption>
+<figcaption class="articleCaption">Printed leg, print-in-place assembly (see <a href="https://mattlewton.me/manufacturing/3dPrinting.html.html" class="link" target="_blank" rel="noopener noreferrer">3D printing</a>)</figcaption>
 </div>
 
 </div>

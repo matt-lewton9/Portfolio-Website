@@ -23,7 +23,7 @@ After the competition, we conducted more comprehensive experiments which investi
 
 There is a large temperature difference between the soil on the moon’s surface and just a few feet underground. This is because lunar soil’s thermal conductivity increases with depth as it becomes more compact and dense. This project theorized that lunar soil underground with higher thermal conductivity at could be used as a heat sink for a thermoelectric generator powered by solar radiation or waste heat from a lunar base.
 
-This can be done by extending the cold side of the thermoelectric plates with a copper "radiator cylinder" to reach depths with a high thermal conductivity, which is insulated from the sides. The top of the radiator cylinders is a "cold surface" that can be utilized in conjunction with any heat source to generate electricity.
+This can be done by extending the cold side of the thermoelectric plates with a copper "radiator cylinder" to reach depths with a high thermal conductivity. The top of the radiator cylinders provides a heat sink at the surface that can be utilized in conjunction with any heat source to generate electricity.
 
 This concept was successfully demonstrated experimentally, and the results are detailed in the paper above. The rest of this article will focus on the design and simulation of the device and test apparatus.
 
@@ -43,12 +43,12 @@ The prototype device consisted of thermoelectric generator modules at the surfac
 <figcaption class="articleCaption">Test apparatus design and construction</figcaption>
 </div>
 
-For the test apparatus, we made a 16”x16”x48” vacuum chamber with 1/2” acrylic sheets, with holes for wires, pipes, and bolts cut by the supplier. The radiative heat source was three heat lamps that hung above the surface. Our lunar soil simulant was sand, which has the desired property of increasing its thermal conductivity with depth. The “heat sink” was created by water in copper coils cooled to room temperature by a PID water cooling system. THis kept the soil below a certain depth at a constant temperature, and created a temperature gradient in the first 20mm of sand similar top what exists on the moon.
+For the vacuum chamber, we made a 16” x 16” x 48” acrylic box with 1/2” thick sheets, with holes for wires, pipes, and bolts. The radiative heat source was three heat lamps that hung above the surface. Our lunar soil simulant was sand, which has the desired property of increasing its thermal conductivity with depth. The “heat sink” was created by water in copper coils cooled to room temperature by a PID water cooling system. This kept the soil below a certain depth at a constant temperature, and created a temperature gradient in the first 20 cm of sand similar top what exists on the moon.
 
 Temperature at 9 locations was recorded by thermocouples embedded in the sand and prototype device. Temperature data, as well as voltage produced by the thermoelectric generator, were collected by Arduino Uno, and written to a csv by a Raspberry Pi.
 
 ## Simulation
 
-We used FEA thermal simulation in Fusion 360 to validate our experimental results. As described in the paper, the surface and subsurface temperatures in the simulation were significantly higher than in the experiment, but the temperature differential we were trying to create between the plates of the thermoelectric generator was accurately modeled. We also used simulations to design a heat sink in a way that would replicate the temperature distribution of lunar soil, and determine the wall thickness of the vacuum chamber.
+We used FEA thermal simulation in Fusion 360 to validate our experimental results. As described in the paper, the surface and subsurface temperatures in the simulation were significantly higher than in the experiment, but the temperature differential we were trying to create between the plates of the thermoelectric generator was accurately modeled. We also used simulations to design a heat sink in a way that would replicate the temperature distribution of lunar soil, and determine the required wall thickness of the vacuum chamber.
 
 This was my first exposure to simulations. While Fusion 360 is definitely not a real simulation software, it's all we had access to, and it made learning Ansys for Purdue Space Program feel like a natural transition.

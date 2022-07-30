@@ -11,7 +11,7 @@ order: 1
 <figcaption class="articleCaption">My site!</figcaption>
 </div>
 
-I built this website from scratch in about 2 weeks as one of my summer projects. I designed custom html templates, so the article and menu pages generate themselves via loops using Jeckyll. The article content was written in Markdown files, which is easier to write in than raw html.
+I built this website from scratch in about 2 weeks as one of my summer projects. I designed custom html templates, so the article and menu pages generate themselves via loops using Jeckyll. This allows for the article content was written in Markdown, which is easier to write in than raw html.
  
 I did the CSS styling myself without any libraries. I like darkmode and my favorite color is green. 
 

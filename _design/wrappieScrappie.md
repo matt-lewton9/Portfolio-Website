@@ -8,10 +8,10 @@ order: 1
 
 <div class="imgCptnBox" style="float:right">
 <img src="{{ "assets/images/wrappie.jpg" | relative_url }}" class="articleImgMain">
-<figcaption class="articleCaption">Wrappie Scrappie and motor housing</figcaption>
+<figcaption class="articleCaption">Wrappie Scrappie!</figcaption>
 </div>
 
-Wrappie Scrappie is an L1 high powered rocket with a homemade fiberglass airframe and fins to learn composite manufacturing techniques, which has been documented in <a href="https://mattlewton.me/2022/07/03/fiberglass.html" class="link" target="_blank" rel="noopener noreferrer">_latest projects_</a>. It is 35" tall, has a 2" diameter, and weighs 550 grams without a motor. Wrappie was designed in OpenRocket for aero design and flight simulations, as well as Solidworks for structures.
+Wrappie Scrappie is an L1 high powered rocket with a homemade fiberglass airframe and fins to learn composite manufacturing techniques, which I documented in <a href="https://mattlewton.me/2022/07/03/fiberglass.html" class="link" target="_blank" rel="noopener noreferrer">latest projects</a>. It is 35" tall, has a 2" diameter, and weighs 550 grams without a motor. Wrappie was designed in OpenRocket for aero design and flight simulations, as well as Solidworks for structures.
 
 I will be flying Wrappie Scrappie this fall with a G78 motor to 2,000 ft this fall, then to 4,000 ft with an H class motor for my L1 NAR certification
 
@@ -21,8 +21,6 @@ Wrappie Scrappie uses two bulkheads to connect three 8" fiberglass tubes. Avioni
 <img src="{{ "assets/images/wrappieCad.png" | relative_url }}" class="articleImgMain" style="min-width: 90%;min-height: 100%">
 <figcaption class="articleCaption">Wrappie Scrappie CAD section view</figcaption>
 </div>
-
-
 
 <div class="imgCptnBox" style="float:right">
 <img src="{{ "assets/images/motorAssy.png" | relative_url }}" class="articleImgMain">
@@ -35,7 +33,7 @@ The motor housing is a replaceable assembly that secures the motor, transfers th
 
 <div class="imgCptnBox" style="float:right">
 <img src="{{ "assets/images/nosecone.png" | relative_url }}" class="articleImgMain">
-<figcaption class="articleCaption">Motor housing CAD section view</figcaption>
+<figcaption class="articleCaption">Nosecone CAD section view</figcaption>
 </div>
 
 ## Nosecone
