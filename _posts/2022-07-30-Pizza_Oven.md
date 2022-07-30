@@ -5,14 +5,16 @@ excerpt_separator: <!--more-->
 image: assets/images/pizzaOven.png
 ---
 
+I designed a sheet metal pizza oven! This project is mostly for me to learn how to design for sheet metal and practice welding. The oven bakes a 14" pizza with a wood fire, and features a front vent to induce convective airflow that evenly cooks the pie.
+
+<!--more-->
+
 <div class="imgCptnBox" style="float:right">
 <img src="{{ "assets/images/pizzaOven.png" | relative_url }}" class="articleImgMain">
 <figcaption class="articleCaption">Pizza Oven Cross Section (isometric)</figcaption>
 </div>
 
-I designed a sheet metal pizza oven! This project is mostly for me to learn how to design for sheet metal and practice welding. The oven bakes a 14" pizza with a wood fire, and features a front vent to induce convective airflow that evenly cooks the pie.
-
-<div class="imgCptnBox" style="float:left">
+<div class="imgCptnBox" style="float:right">
 <img src="{{ "assets/images/convection.png" | relative_url }}" class="articleImgMain">
 <figcaption class="articleCaption">Convective Heat Flow</figcaption>
 </div>
