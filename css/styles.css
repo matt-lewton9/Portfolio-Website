@@ -226,14 +226,15 @@ body{
 }
 
 .excerpt{
-  height: 25vh;
-  padding: 16px;
+  height: fit-content;
+  padding: 24px;
 }
 
 .excerptImg{
   object-fit: scale-down;
   float:right;
   padding:16px;
+  height: 25vh;
   max-height: 100%;
 }
 
@@ -392,6 +393,18 @@ footer {
   video {
     width: 100%    !important;
   }
+
+  .excerpt{
+    text-align:center;
+  }
+    
+  .excerpt p{
+      display:none;
+    }
+    
+  .excerpt img{
+      float: none;
+    }
 
   .footer{
     padding: 0px;
