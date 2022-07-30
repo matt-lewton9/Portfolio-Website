@@ -1,5 +1,6 @@
 <div class="excerpt">
-    <h2><a class="link" href="{{ post.url | relative_url }}">{{- post.title -}}</a></h2>
+    <img src="{{ post.image | relative_url }}", class="excerptImg",>
+        <h2><a class="link" href="{{ post.url | relative_url }}">{{- post.title -}}</a></h2>
     <h3 class="projectdate">{{ post.date | date: "%m-%d-%Y" }}</h3>
     {{- post.excerpt -}}
 </div>

@@ -226,7 +226,15 @@ body{
 }
 
 .excerpt{
-  padding: 0px 16px 16px 16px;
+  height: 25vh;
+  padding: 16px;
+}
+
+.excerptImg{
+  object-fit: scale-down;
+  float:right;
+  padding:16px;
+  max-height: 100%;
 }
 
 .navbar a:hover {
