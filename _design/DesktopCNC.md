@@ -33,6 +33,11 @@ This design had a few large flaws. For one, having the structural frame enclosin
 
 ## V2
 
+<div class="imgCptnBox" style="float:right">
+<img src="{{ "assets/images/cncMainV2.png" | relative_url }}" class="articleImgMain">
+<figcaption class="articleCaption">Unfinished cad of V2<br>Shows knee mill configuration for axis</figcaption>
+</div>
+
 Version 2 has a few major upgrades from Version 1. 
 
 It is a knee mill configuration, similar to large production CNC mills, with the table moving in X and Y, and the Z axis on a tower. The main advantage of a knee mill design, as opposed to a 3d printer or cnc router design, is that the structural frame is smaller than the machine, as opposed to a frame that encloses the entire machine. This minimizes the length of each beam in the frame, which improves rigidity a lot. The bed is also no longer square, it's rectangular, which minimizes Z axis overhang for without significantly reducing the cutting volume. The linear motion system has been upgraded to linear rails with carriages, and the frame is steel tubing instead of aluminum extrusion, again for rigidity.
