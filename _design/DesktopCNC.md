@@ -33,7 +33,7 @@ This design had a few large flaws. For one, having the structural frame enclosin
 
 <div class="imgCptnBox" style="float:right">
 <img src="{{ "assets/images/cncMainV2.png" | relative_url }}" class="articleImgMain">
-<figcaption class="articleCaption">Unfinished cad of V2<br>Shows knee mill configuration for axis</figcaption>
+<figcaption class="articleCaption">V2 with "knee mill" design</figcaption>
 </div>
 
 ## V2
