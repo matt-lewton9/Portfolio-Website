@@ -23,7 +23,7 @@ images:
     description: CNC Machining
     link: /manufacturing/cncMachining.html
   
-  - name: cncMain.png
+  - name: cncMainV2.png
     description: Desktop CNC Mill
     link: /design/DesktopCNC.html
 
