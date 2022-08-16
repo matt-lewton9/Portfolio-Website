@@ -31,12 +31,12 @@ This design had the table travel in Y, and the Z axis assembly travel in X above
 
 This design had a few large flaws. For one, having the structural frame enclosing the machine made it easy to mount an enclosure, but it was not very rigid, or efficient use of aluminum, since the frame struts were unnecessarily large. Second, linear rods are not the mopst rigid linear motion system, althpugh they are cheap. Similar designs, such as the commercial mills listed above, overcome these rigidity issues with steel frames, and ridiculously thick linear rods. Those solutions however, are not within my budget (at least off campus), since they are not an efficient use of materials.
 
-## V2
-
 <div class="imgCptnBox" style="float:right">
 <img src="{{ "assets/images/cncMainV2.png" | relative_url }}" class="articleImgMain">
 <figcaption class="articleCaption">Unfinished cad of V2<br>Shows knee mill configuration for axis</figcaption>
 </div>
+
+## V2
 
 Version 2 has a few major upgrades from Version 1. 
 
