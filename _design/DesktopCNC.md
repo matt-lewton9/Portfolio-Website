@@ -48,14 +48,14 @@ It is a knee mill configuration, similar to large production CNC mills, with the
 
 V3 of this machine would feature the following improvements:
 
-    - Replace almost all aluminum extrusion with steel bar. This could be done at very little cost with the resources at school.
+- Replace almost all aluminum extrusion with steel bar. This could be done at very little cost with the resources at school.
 
-    - Replace the cheap spindle with a higher quality spindle that comes with a real VFD. This would be by far the most expensive part, but I'm nervous about the striaghtness of a cheap spindle.
+- Replace the cheap spindle with a higher quality spindle that comes with a real VFD. This would be by far the most expensive part, but I'm nervous about the striaghtness of a cheap spindle.
 
-    - Redesign the Z axis frame with a cross beam that lets me adjust the mill's tram.
+- Redesign the Z axis frame with a cross beam that lets me adjust the mill's tram.
 
-    - Replace the 3d printed spindle mount and table mount with a machined aluminum parts.
+- Replace the 3d printed spindle mount and table mount with a machined aluminum parts.
 
-    - Add an enclosure for chips and possibly coolant if I can get free polycarbonate.
+- Add an enclosure for chips and possibly coolant if I can get free polycarbonate.
 
-    - Maybe add a "drip" coolant system, which could be a fish tank pump, dripping coolant onto the spindle. This would require a coolant tray and filter in the bottom of the enclosure.
+- Maybe add a "drip" coolant system, which could be a fish tank pump, dripping coolant onto the spindle. This would require a coolant tray and filter in the bottom of the enclosure.
