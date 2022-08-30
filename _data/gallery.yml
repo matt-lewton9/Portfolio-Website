@@ -27,9 +27,9 @@ images:
     description: Desktop CNC Mill
     link: /design/DesktopCNC.html
 
-  - name: pizzaOven.png
-    description: Pizza Oven
-    link: /2022/07/30/Pizza_Oven.html
+  - name: overlap.png
+    description: Fiberglass Manufacturing
+    link: /2022/07/03/fiberglass.html
 
   - name: clubShadeMain.png
     description: Ice Rink Shade
@@ -38,6 +38,10 @@ images:
   - name: voronoi.JPG
     description: 3D Printing
     link: /manufacturing/3dPrinting.html
+
+  - name: pizzaOven.png
+    description: Pizza Oven
+    link: /2022/07/30/Pizza_Oven.html
 
   - name: coronabotMain.png
     description: Discord Bots
