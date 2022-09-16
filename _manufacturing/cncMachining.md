@@ -39,4 +39,9 @@ Here are examples of parts I've made:
 <figcaption class="articleCaption">Helical Pen Cap, P0 Steel, 5 axis rotary part</figcaption>
 </div>
 
+<div class="imgCptnBox">
+<img src="{{ "assets/images/lego.png" | relative_url }}" class="articleImg">
+<figcaption class="articleCaption">PSP Lego Brick, Aluminum</figcaption>
+</div>
+
 </div>
