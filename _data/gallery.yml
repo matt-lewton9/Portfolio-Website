@@ -19,7 +19,7 @@ images:
     description: 3D Printing
     link: /manufacturing/3dPrinting.html
 
-  - name: cncMain2.JPG
+  - name: CNCglamour.jpg
     description: CNC Machining
     link: /manufacturing/cncMachining.html
   
@@ -43,10 +43,6 @@ images:
     description: Pizza Oven
     link: /2022/07/30/Pizza_Oven.html
 
-  - name: coronabotMain.png
-    description: Discord Bots
-    link: /programming/Coronabot.html
-
   - name: otherMain2.JPG
     description: Welding
     link: /manufacturing/otherMfg.html
@@ -54,10 +50,6 @@ images:
   - name: tableMain.png
     description: Folding Table
     link: /design/foldingTable.html
-
-  - name: roomateMain.png
-    description: Roommate Matcher
-    link: /programming/roomate.html
 
   - name: cannon.jpg
     description: Baseball Cannon
