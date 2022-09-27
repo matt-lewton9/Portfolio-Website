@@ -27,7 +27,7 @@ I also made a fiberglass airframe for my L1 high power rocket. Check previous po
 </div>
 
 <div class="imgCptnBox">
-<img src="{{ "assets/images/finaltube.jpg" | relative_url }}" class="articleImgMain">
+<img src="{{ "assets/images/finalTube.jpg" | relative_url }}" class="articleImgMain">
 <figcaption class="articleCaption">Fiberglass tube made with seam molding</figcaption>
 </div>
 
