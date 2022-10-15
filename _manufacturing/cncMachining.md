@@ -21,7 +21,7 @@ Here are examples of parts I've made:
 
 <div class="imgCptnBox">
 <img src="{{ "assets/images/cnc5.JPG" | relative_url }}" class="articleImg">
-<figcaption class="articleCaption">Bolt, P3 Steel, BIDC cnc lathe training</figcaption>
+<figcaption class="articleCaption">Bolt, P3 Steel, BIDC CNC lathe training</figcaption>
 </div>
 
 <div class="imgCptnBox">

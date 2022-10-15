@@ -7,7 +7,7 @@ images:
     description: NASA MINDS
     link: design/nasaMinds.html
 
-  - name: compositesMain.JPG
+  - name: panel.png
     description: Composites
     link: /manufacturing/composites.html
 

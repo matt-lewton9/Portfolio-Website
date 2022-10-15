@@ -50,7 +50,7 @@ V3 of this machine would feature the following improvements:
 
 - Replace almost all aluminum extrusion with steel bar. This could be done at very little cost with the resources at school.
 
-- Replace the cheap spindle with a higher quality spindle that comes with a real VFD. This would be by far the most expensive part, but I'm nervous about the striaghtness of a cheap spindle.
+- Replace the cheap spindle with a higher quality spindle that comes with a real VFD. This would be by far the most expensive part, but I'm nervous about the how straight a cheap spindle will be as the bearings wear.
 
 - Redesign the Z axis frame with a cross beam that lets me adjust the mill's tram.
 
@@ -58,4 +58,4 @@ V3 of this machine would feature the following improvements:
 
 - Add an enclosure for chips and possibly coolant if I can get free polycarbonate.
 
-- Maybe add a "drip" coolant system, which could be a fish tank pump, dripping coolant onto the spindle. This would require a coolant tray and filter in the bottom of the enclosure.
+- Maybe add a "drip" coolant system, which could be a fish tank pump, dripping coolant onto the spindle. This would require a coolant tray and filter in the bottom of the enclosure, which could be waterjetted polycarbonate sheets and hot glue ;) .
