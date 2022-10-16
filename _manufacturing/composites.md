@@ -3,7 +3,7 @@ layout: project
 title: Composites
 imgFilename: "panel.png"
 when: ""
-order: 3
+order: 1
 ---
 
 I'm the Structures Lead of Purdue Space Program Liquids

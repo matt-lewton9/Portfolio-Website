@@ -3,7 +3,7 @@ layout: project
 title: 3D Printing
 when: ""
 imgFilename: "3dpMain2.JPG"
-order: 2
+order: 3
 ---
 
 I've been FDM 3D printing since high school. I mostly print mechanical parts, and I'm able to consistently get clearance, transition, and interference fits for tight fittig assemblies. 

@@ -3,7 +3,7 @@ layout: project
 title: CNC Machining
 when: ""
 imgFilename: "cncMain.jpg"
-order: 3
+order: 2
 ---
 
 I work as a Peer Mentor at the Bechtel Innovation Design Center (BIDC) at Purdue. I'm functionally a student machinist, and mentor users of the manufacturing shop in the fabrication and design of their projects. I advise students while they create their CAM, and guide them through using the machines. I’m also on the Purdue Space Program Liquids manufacturing team, where I make flight hardware for our vehicle.
