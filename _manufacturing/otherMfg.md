@@ -7,9 +7,13 @@ order: 4
 ---
 <div class="imgCptnBox" style="float:right">
 <img src="{{ "assets/images/otherMain2.JPG" | relative_url }}" class="articleImgMain">
-<figcaption class="articleCaption">Welded soda can holder</figcaption>
+<figcaption class="articleCaption">Tig welded steel soda can holder</figcaption>
 </div>
 
+<div class="imgCptnBox" style="float:right">
+<img src="{{ "assets/images/pumpkin.png" | relative_url }}" class="articleImgMain">
+<figcaption class="articleCaption">TIG welded alumuinum pumpkin</figcaption>
+</div>
 
 ## Welding
 
