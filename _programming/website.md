@@ -7,7 +7,9 @@ order: 1
 ---
 
 <div class="imgCptnBox" style="float:right">
+<a href="{{ "index.html" | relative_url  }}">
 <img src="{{ "assets/images/siteMain.png" | relative_url }}" class="articleImgMain">
+</a>
 <figcaption class="articleCaption">My site!</figcaption>
 </div>
 
