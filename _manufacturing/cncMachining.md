@@ -20,8 +20,8 @@ Here are examples of parts I've made:
 </div>
 
 <div class="imgCptnBox">
-<img src="{{ "assets/images/cnc5.JPG" | relative_url }}" class="articleImg">
-<figcaption class="articleCaption">Bolt, P3 Steel, BIDC CNC lathe training</figcaption>
+<img src="{{ "assets/images/ring.png" | relative_url }}" class="articleImg">
+<figcaption class="articleCaption">Aluminum ring, prototype for stainless. This was my first true 5 axis part.</figcaption>
 </div>
 
 <div class="imgCptnBox">
@@ -37,6 +37,11 @@ Here are examples of parts I've made:
 <div class="imgCptnBox">
 <img src="{{ "assets/images/cnc3.JPG" | relative_url }}" class="articleImg">
 <figcaption class="articleCaption">Helical Pen Cap, P0 Steel, 5 axis rotary part</figcaption>
+</div>
+
+<div class="imgCptnBox">
+<img src="{{ "assets/images/cnc5.JPG" | relative_url }}" class="articleImg">
+<figcaption class="articleCaption">Bolt, P3 Steel, BIDC CNC lathe training</figcaption>
 </div>
 
 <div class="imgCptnBox">
