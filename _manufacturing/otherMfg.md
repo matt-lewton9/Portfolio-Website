@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Other Manufacturing
-imgFilename: "otherMain2.JPG"
+imgFilename: "pumpkin.png"
 when: ""
 order: 4
 ---

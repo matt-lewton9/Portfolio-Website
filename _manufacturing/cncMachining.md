@@ -21,7 +21,7 @@ Here are examples of parts I've made:
 
 <div class="imgCptnBox">
 <img src="{{ "assets/images/ring.png" | relative_url }}" class="articleImg">
-<figcaption class="articleCaption">Aluminum ring, prototype for stainless. This was my first true 5 axis part.</figcaption>
+<figcaption class="articleCaption">Stainless Steel ring. Simultaneous 5 axis part.</figcaption>
 </div>
 
 <div class="imgCptnBox">
