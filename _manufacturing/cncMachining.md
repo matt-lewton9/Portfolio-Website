@@ -26,6 +26,8 @@ Here are some parts I've made:
 <figcaption class="articleCaption">Stainless Steel ring. Simultaneous 5 axis part.</figcaption>
 </div>
 
+{% include image.html file="wallets.jpg" caption="Machined aluminum wallets with engraved front plate. Home anodized black and silver." maxWidth = "" %}
+
 <div class="imgCptnBox">
 <img src="{{ "assets/images/cnc4.JPG" | relative_url }}" class="articleImg">
 <figcaption class="articleCaption">Fin Can Center Ring, Aluminum PSP Flight Hardware</figcaption>
