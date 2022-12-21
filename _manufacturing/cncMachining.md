@@ -29,6 +29,14 @@ Here are examples of parts I've made:
 <figcaption class="articleCaption">Fin Can Center Ring, Aluminum PSP Flight Hardware</figcaption>
 </div>
 
+
+{% include image.html file="C=chamby.jpg" caption="Stainless Steel Engine Replica" maxWidth = "250px" %}
+
+<div class="imgCptnBox">
+<img src="{{ "assets/images/" | relative_url }}" class="articleImg">
+<figcaption class="articleCaption">Fin Can Center Ring, Aluminum PSP Flight Hardware</figcaption>
+</div
+
 <div class="imgCptnBox">
 <img src="{{ "assets/images/cncMain2.JPG" | relative_url }}" class="articleImg">
 <figcaption class="articleCaption">Titan 9M, Aluminum, BIDC mill training</figcaption>
