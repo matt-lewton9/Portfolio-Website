@@ -16,8 +16,10 @@ I also made a fiberglass airframe for my L1 high power rocket. Check previous po
 
 <div class="imgCptnBox">
 <img src="{{ "assets/images/panel.png" | relative_url }}" class="articleImgMain">
-<figcaption class="articleCaption">10" OD carbon fiber airframe panel</figcaption>
+<figcaption class="articleCaption">10" OD carbon fiber airframe panel with waterjetted QD holes</figcaption>
 </div>
+
+{% include image.html file="engine.jpg" caption="Engine fiberglass hand wrap mocking silica phenolic" maxWidth = "" %}
 
 <div class="imgCptnBox">
 <img src="{{ "assets/images/compositesMain.JPG" | relative_url }}" class="articleImgMain">
