@@ -30,7 +30,7 @@ Here are examples of parts I've made:
 </div>
 
 
-{% include image.html file="C=chamby.jpg" caption="Stainless Steel Engine Replica" maxWidth = "250px" %}
+{% include image.html file="chamby.jpg" caption="Stainless Steel Engine Replica" maxWidth = "250px" %}
 
 <div class="imgCptnBox">
 <img src="{{ "assets/images/" | relative_url }}" class="articleImg">
