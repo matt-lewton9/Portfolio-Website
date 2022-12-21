@@ -10,7 +10,7 @@ I work as a Peer Mentor at the Bechtel Innovation Design Center (BIDC) at Purdue
 
 At BIDC, I've had the opportunity to work with manual mills, a Haas VF-2 and a 5 axis VF-4 mill, and Haas ST-20 CNC lathes.
 
-Here are examples of parts I've made:
+Here are some parts I've made:
 
 <div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap;">
 
@@ -29,13 +29,7 @@ Here are examples of parts I've made:
 <figcaption class="articleCaption">Fin Can Center Ring, Aluminum PSP Flight Hardware</figcaption>
 </div>
 
-
 {% include image.html file="chamby.jpg" caption="Stainless Steel Engine Replica" maxWidth = "" %}
-
-<div class="imgCptnBox">
-<img src="{{ "assets/images/" | relative_url }}" class="articleImg">
-<figcaption class="articleCaption">Fin Can Center Ring, Aluminum PSP Flight Hardware</figcaption>
-</div
 
 <div class="imgCptnBox">
 <img src="{{ "assets/images/cncMain2.JPG" | relative_url }}" class="articleImg">
