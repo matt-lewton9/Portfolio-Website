@@ -18,7 +18,7 @@ Here are some parts I've made:
 
 <div class="imgCptnBox">
 <img src="{{ "assets/images/cncMain.jpg" | relative_url }}" class="articleImg">
-<figcaption class="articleCaption">QD Bracing Block, Aluminum, 5 Axis part for PSP GSE</figcaption>
+<figcaption class="articleCaption">QD Bracing Block, Aluminum, PSP flight hardware</figcaption>
 </div>
 
 <div class="imgCptnBox">
@@ -26,14 +26,17 @@ Here are some parts I've made:
 <figcaption class="articleCaption">Stainless Steel ring. Simultaneous 5 axis part.</figcaption>
 </div>
 
-{% include image.html file="wallets.jpg" caption="Machined aluminum wallets with engraved front plate. Home anodized black and silver." maxWidth = "" %}
+<div class="imgCptnBox">
+<img src="{{ "assets/images/wallets.jpg" | relative_url }}" class="articleImg">
+<figcaption class="articleCaption">Aluminum wallets with engraved front plate.<br>Home anodized gunmetal and silver.</figcaption>
+</div>
 
 <div class="imgCptnBox">
 <img src="{{ "assets/images/cnc4.JPG" | relative_url }}" class="articleImg">
-<figcaption class="articleCaption">Fin Can Center Ring, Aluminum PSP Flight Hardware</figcaption>
+<figcaption class="articleCaption">Fin Can Center Ring, Aluminum PSP flight hardware</figcaption>
 </div>
 
-{% include image.html file="chamby.jpg" caption="Stainless Steel Engine Replica" maxWidth = "" %}
+{% include image.html file="chamby.jpg" caption="Stainless steel engine replica" maxWidth = "" %}
 
 <div class="imgCptnBox">
 <img src="{{ "assets/images/cncMain2.JPG" | relative_url }}" class="articleImg">

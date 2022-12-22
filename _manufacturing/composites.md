@@ -1,16 +1,18 @@
 ---
 layout: project
 title: Composites
-imgFilename: "panel.png"
+imgFilename: "compositesMain.JPG"
 when: ""
 order: 1
 ---
 
-On Purdue Space Program Liquids I am leading the design-manufacture-test campaign for composites. We are making structural airframe tubes and nonstrucutral airframe panels, and the nosecone using oven cured prepreg fabric in a two piece vacuum bagged mold. The mold itself is tooling prepreg cured over a male mold of the part. 
+At Purdue, I've had the opportiniuty to learn composites design and manufacturing, and I'll be starting a composites manufacturing internship at NASA Langley Research Center Spring 2023.
+
+On Purdue Space Program Liquids I am leading the design-manufacture-test campaign for composites. We are making structural airframe sections, fins, a nosecone, and airframe panels, using oven cured prepreg fabric in a two piece vacuum bagged mold. The mold itself is tooling prepreg cured over a male mold of the part. We are also hand wrapping our engine in silica phenolic ablative with a carbon fiber / epoxy overwrap.
 
 I am using Ansys ACP to design and simulate the strength of composite airframes. We will be running experimental tests to validate the accuracy of our simulations before making the final airframe.
 
-I also made a fiberglass airframe for my L1 high power rocket. Check previous posts for {% include url.html url="https://mattlewton.me/2022/07/03/fiberglass.html" text="manufacturing" %} and {% include url.html url="https://mattlewton.me/2022/07/08/fg_test.html" text="testing and defects" %}.
+I also made a fiberglass airframe from scratch for my L1 high power rocket. Check previous posts for {% include url.html url="https://mattlewton.me/2022/07/03/fiberglass.html" text="manufacturing" %} and {% include url.html url="https://mattlewton.me/2022/07/08/fg_test.html" text="testing and defects" %}.
 
 <div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap;">
 

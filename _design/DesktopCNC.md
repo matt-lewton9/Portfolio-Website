@@ -10,15 +10,15 @@ order: 2
 
 Over the summer of 2022, I set out to make my own desktop CNC mill to machine small aluminum parts. Originally, I wanted it to be about the size of a 3D printer, and cost around $500. However, after researching similar projects and a few design iterations, I realized that I couldn't really make a machine worth $500 for $500. My costs are also way higher off campus during the summer without access to a machine shop and free stock.
 
-Although nothing was built, designing these mills was incredibly fun. This was my first time designing specifically for rigidity, which new to me. The electronics and control of this project were also completely foreign to me, so designing the system and sourcing components was difficult and tedious, but necessary exposure. 
+Although nothing was built, designing these mills was incredibly fun. This was my first time designing specifically for rigidity. The electronics and controls of this project were also completely foreign to me, so designing the system and sourcing components was tedious, but good exposure. 
 
-This was also a trial-by-fire initiation to Solidworks, which I love, and is now my preferred CAD package. The assembly all parts were defined by master sketches in the front, right, and top planes. This method was very robust, and it's how I'm doing all my assemblies from now on.
+This was also a trial-by-fire initiation to Solidworks, which I love, and is now my preferred CAD package. All parts in the assembly were defined by master sketches in the front, right, and top planes. This method was very robust, and it's how I'm doing all my assemblies from now on.
 
 The right way to do this project, is to make something significantly larger for $3,000-$5,000, which would also ideally be capable of cutting steel. I would like to attempt this before I graduate and lose access to Purdue's machine shop. 
 
 <div class="imgCptnBox" style="float:right">
 <img src="{{ "assets/images/cncMain.png" | relative_url }}" class="articleImgMain">
-<figcaption class="articleCaption">V1 "3D Printer Design"<br>electronics box, brackets, and gusset plates not shown.</figcaption>
+<figcaption class="articleCaption">V1 "3D Printer Design".<br>Electronics box, brackets, and gusset plates not shown.</figcaption>
 </div>
 
 ## Electronics
@@ -50,12 +50,12 @@ V3 of this machine would feature the following improvements:
 
 - Replace almost all aluminum extrusion with steel bar. This could be done at very little cost with the resources at school.
 
-- Replace the cheap spindle with a higher quality spindle that comes with a real VFD. This would be by far the most expensive part, but I'm nervous about the how straight a cheap spindle will be as the bearings wear.
+- Replace the cheap spindle with a higher quality spindle that comes with a real VFD. This would be by far the most expensive part, but I'm nervous about the how straight a cheap spindle will be as the bearings wear out.
 
-- Redesign the Z axis frame with a cross beam that lets me adjust the mill's tram.
+- Redesign the Z axis frame with a cross beam that lets me adjust the spindle to be truly normal to the table.
 
 - Replace the 3d printed spindle mount and table mount with a machined aluminum parts.
 
 - Add an enclosure for chips and possibly coolant if I can get free polycarbonate.
 
-- Maybe add a "drip" coolant system, which could be a fish tank pump, dripping coolant onto the spindle. This would require a coolant tray and filter in the bottom of the enclosure, which could be waterjetted polycarbonate sheets and hot glue ;) .
+- Maybe add a "drip" coolant system, which could be a fish tank pump, dripping coolant onto the spindle. This would require a coolant tray and filter in the bottom of the enclosure, which could be waterjetted polycarbonate sheets and hot glue.

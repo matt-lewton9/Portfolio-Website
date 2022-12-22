@@ -11,11 +11,11 @@ order: 1
 <figcaption class="articleCaption">Wrappie Scrappie!</figcaption>
 </div>
 
-Wrappie Scrappie is an L1 high powered rocket with a homemade fiberglass airframe and fins to learn composite manufacturing techniques, which I documented in <a href="https://mattlewton.me/2022/07/03/fiberglass.html" class="link" target="_blank" rel="noopener noreferrer">latest projects</a>. It is 35" tall, has a 2" diameter, and weighs 550 grams without a motor. Wrappie was designed in OpenRocket for aero design and flight simulations, as well as Solidworks for structures.
+Wrappie Scrappie is an L1 high powered rocket with a homemade fiberglass airframe and fins to learn composite manufacturing techniques, which I documented in <a href="https://mattlewton.me/2022/07/03/fiberglass.html" class="link" target="_blank" rel="noopener noreferrer">latest projects</a>. It is 35" tall, has a 2" diameter, and weighs 550 grams without a motor. Wrappie was designed in OpenRocket for aero design and flight simulations, and Solidworks for structures CAD.
 
-I will be flying Wrappie Scrappie this fall with a G78 motor to 2,000 ft this fall, then to 4,000 ft with an H class motor for my L1 NAR certification
+I plan to fly Wrappie Scrappie this fall with a G78 motor to 2,000 ft this fall, then to 4,000 ft with an H95 motor for my L1 NAR certification
 
-Wrappie Scrappie uses two bulkheads to connect three 8" fiberglass tubes. Avionics are sealed in the 3d printed nose cone, and the motor is housed in a replaceable motor housing, which allows for motors of different diameters and lengths to be flown in this rocket.
+Wrappie Scrappie uses two bulkheads to connect three 8" fiberglass tubes. Avionics are sealed in the 3d printed nose cone, and the motor is housed in a replaceable custom motor casing, which screws into the lower connector. This allows for motors of different diameters and lengths to be flown in this rocket.
 
 <div class="imgCptnBox" style="text-align:center;float:none">
 <img src="{{ "assets/images/wrappieCad.png" | relative_url }}" class="articleImgMain" style="min-width: 90%;min-height: 100%">
@@ -42,11 +42,11 @@ The nosecone serves the function of housing both avionics and ballast. The nose 
 
 ## Recovery
 
-Wrappie's recovery is a single stage main chute that is deployed by a timed ejection charge at apogee. On deployment, the nosecone separates, pulling the main chute from the recovery bay. The parachute, nosecone, and rocket are connected by a 3-way swivel . The 3d printed bulkheads, threads and steel eyebolts were tested with static loads to support up to 80 Gs of deceleration on deployment. This is a very simple recovery system, and I understand that the rocket will drift significantly on descent. However, I will be crushed if I lose this rocket, so I decided to keep it simple stupid.
+Wrappie's recovery is a single stage main chute that is deployed by a timed ejection charge at apogee. On deployment, the nosecone separates, pulling the main chute from the recovery bay. The parachute, nosecone, and rocket are connected by a 3-way swivel. The 3d printed bulkheads, threads and steel eyebolts were tested with static loads to support up to 80 Gs of deceleration on deployment. This is a very simple recovery system, and I understand that the rocket will drift significantly on descent. However, I will be crushed if I lose this rocket, so I decided to keep it simple stupid.
 
 ## Fins
 
-The fins are .060" thick 3d prints, reinforced by 3 layers of fiberglass on each side. They are secured to the rocket with epoxy surface filets. I did not do through-wall fins, since I want the motor housing to be replaceable. I originally intended to add a tip to tip fiberglass layup, but the fins are already very stiff and secure, and tip to tip layups are difficult, heavy, and expensive.
+The fins are 0.060" thick 3d prints, reinforced by 3 layers of fiberglass on each side. They are secured to the rocket with epoxy surface filets. I did not do through-wall fins, since I want the motor housing to be replaceable. I originally intended to add a tip to tip fiberglass layup, but the fins are already very stiff and secure, and tip to tip layups are difficult, heavy, and expensive.
 
 <div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap;">
 

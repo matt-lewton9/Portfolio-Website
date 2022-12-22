@@ -7,22 +7,14 @@ images:
     description: NASA MINDS
     link: design/nasaMinds.html
 
-  - name: panel.png
+  - name: compositesMain.JPG
     description: Composites
     link: /manufacturing/composites.html
 
   - name: wrappie.jpg
-    description: Wrappie Scrappie L1 Rocket
+    description: L1 Rocket
     link: design/wrappieScrappie.html
 
-  - name: 3dpMain2.JPG
-    description: 3D Printing
-    link: /manufacturing/3dPrinting.html
-
-  - name: CNCglamour.jpg
-    description: CNC Machining
-    link: /manufacturing/cncMachining.html
-  
   - name: cncMainV2.png
     description: Desktop CNC Mill
     link: /design/DesktopCNC.html
@@ -31,6 +23,10 @@ images:
     description: Fiberglass Manufacturing
     link: /2022/07/03/fiberglass.html
 
+  - name: 3dpMain2.JPG
+    description: 3D Printing
+    link: /manufacturing/3dPrinting.html
+  
   - name: clubShadeMain.png
     description: Ice Rink Shade
     link: /programming/clubShade.html
