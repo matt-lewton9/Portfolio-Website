@@ -23,6 +23,10 @@ images:
     description: Fiberglass Manufacturing
     link: /2022/07/03/fiberglass.html
 
+  - name: CNCglamour.jpg
+    description: CNC Machining
+    link: /manufacturing/cncMachining.html
+
   - name: 3dpMain2.JPG
     description: 3D Printing
     link: /manufacturing/3dPrinting.html
