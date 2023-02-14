@@ -22,8 +22,8 @@ Here are some parts I've made:
 </div>
 
 <div class="imgCptnBox">
-<img src="{{ "assets/images/ring.png" | relative_url }}" class="articleImg">
-<figcaption class="articleCaption">Stainless Steel ring. Simultaneous 5 axis part.</figcaption>
+<img src="{{ "assets/images/ring2.jpg" | relative_url }}" class="articleImg">
+<figcaption class="articleCaption">Stainless Steel ring.  3 axis part.</figcaption>
 </div>
 
 <div class="imgCptnBox">
