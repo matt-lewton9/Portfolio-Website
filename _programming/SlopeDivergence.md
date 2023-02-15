@@ -30,6 +30,4 @@ It only has to search the first 1/8 of the dataset, since I can assume that in t
 
 There are also a few built in ways to handle data noise and outliers. The algrithm returns the Nth acceptable solution found (I used the 20th solution) to verify that the algorithm has entered a range of acceptable solutions, and hasn't just stumbled on an outlier. The skipping feature mentioned above also helps with noise as it also acts as sampling, and the divergence tolerance is less likely to be tripped by local variations in slope.
 
-In future work, an optimal divergence tolerance and error limit could be finely honed by machine learning or gradient ascent much more accurately and efficiently. However, linearly increasing both of those parameters was adequate to get very accurate results that greatly exceeded what was required for this assignment.
-
-This project is not on Github due to academic integrity rules.
+In future work, an optimal divergence tolerance and error limit could be finely honed by gradient ascent much more accurately and efficiently. However, linearly increasing both of those parameters was adequate to get very accurate results that greatly exceeded what was required for this assignment.
