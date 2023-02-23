@@ -20,7 +20,7 @@ I'm currently leading the structures team of 35 students, where I manage respons
 
 {% include image.html file="fincan.jpg" caption="BZB Assembly" maxWidth = "" %}
 
-{% include image.html file="structMeeting.jpg" caption="Weekly Structures maxWidth = ""  %}
+{% include image.html file="structMeeting.jpg" caption="Weekly Structures Meeting" maxWidth = ""  %}
 
 {% include image.html file="CMSrender.png" caption="CMS Render" maxWidth = "800px" %}
 
