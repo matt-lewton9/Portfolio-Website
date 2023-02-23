@@ -16,6 +16,9 @@ I'm currently leading the structures team of 35 students, where I manage respons
 
 <div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap;">
 
+
+{% include image.html file="bzbLaunch.jpg" caption="BZB Launch Spring 2022" maxWidth = "" %}
+
 {% include image.html file="fincan.jpg" caption="BZB Fin Can During Assembly" maxWidth = "" %}
 
 {% include image.html file="rail.JPG" caption="BZB QD Test" maxWidth = "" %}
@@ -24,7 +27,7 @@ I'm currently leading the structures team of 35 students, where I manage respons
 
 {% include image.html file="panel.JPG" caption="CMS Airframe panel" maxWidth = "" %}
 
-{% include image.html file="bzbLaunch.jpg" caption="BZB Launch Spring 2022" maxWidth = "" %}
+
 </div>
 
 <div display="flex" justify-content="center">
