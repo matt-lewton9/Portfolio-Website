@@ -27,7 +27,6 @@ I'm currently leading the structures team of 35 students, where I manage respons
 
 {% include image.html file="panel.JPG" caption="CMS Airframe panel" maxWidth = "" %}
 
-    <div class="vids">
-        <iframe  flex-grow="4"; display="flex" justify-content="center" width="60%", aspect-ratio="4/3" src="https://www.youtube.com/embed/TmexK33293g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    </div>
+<iframe  flex-grow="4"; display="flex" justify-content="center" width="80%", aspect-ratio="4/3" src="https://www.youtube.com/embed/TmexK33293g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 </div>
