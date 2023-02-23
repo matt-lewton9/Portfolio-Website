@@ -6,7 +6,7 @@ imgFilename: "bzbLaunch.png"
 order: 1
 ---
 
-{% include image.html file="bzbLaunch.png"" caption="BZB Launch Spring 2022" maxWidth = "" %}
+{% include image.html file="bzbLaunch.png" caption="BZB Launch Spring 2022" maxWidth = "" %}
 
 I am currently the vehicle structures lead of Purdue Space Program's liquid rocket team. We are currently designing a 2400 lbf Ethanol/LOx rocket targeting 65,000 ft: Crater-Maker Special (CMS).
 
