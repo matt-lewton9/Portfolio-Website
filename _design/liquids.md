@@ -6,7 +6,7 @@ imgFilename: "bzbLaunch.png"
 order: 1
 ---
 
-{% include image.html file="bzbLaunch.png"" caption="BZB Launch Spring 2022" maxWidth = "500" %}
+{% include image.html file="bzbLaunch.png"" caption="BZB Launch Spring 2022" maxWidth = "" %}
 
 I am currently the vehicle structures lead of Purdue Space Program's liquid rocket team. We are currently designing a 2400 lbf Ethanol/LOx rocket targeting 65,000 ft: Crater-Maker Special (CMS).
 
@@ -18,11 +18,11 @@ I'm currently leading the structures team of 35 students, where I manage respons
 
 <div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap;">
 
-{% include image.html file="fincan.jpg"" caption="BZB Assembly" maxWidth = "400" %}
+{% include image.html file="fincan.jpg"" caption="BZB Assembly" maxWidth = "" %}
 
-{% include image.html file="structMeeting.jpg"" caption="Weekly Structures Meeting" maxWidth = "400" %}
+{% include image.html file="structMeeting.jpg"" caption="Weekly Structures Meeting" maxWidth = "" %}
 
-{% include image.html file="CMSrender.png"" caption="CMS Render" maxWidth = "800" %}
+{% include image.html file="CMSrender.png"" caption="CMS Render" maxWidth = "800px" %}
 
 </div>
 
