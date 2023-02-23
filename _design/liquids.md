@@ -31,5 +31,5 @@ I'm currently leading the structures team of 35 students, where I manage respons
 </div>
 
 <div display="flex" justify-content="center">
-<iframe  width="60%" src="https://www.youtube.com/embed/TmexK33293g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe  display="flex" justify-content="center" width="60%", aspect-ratio="4/3" src="https://www.youtube.com/embed/TmexK33293g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
