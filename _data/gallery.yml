@@ -1,6 +1,7 @@
 images:
+
   - name: bzbLaunch.png
-    description: "PSP Liquids - Structures"
+    description: PSP Liquids - Structures
     link: design/liquids.html
 
   - name: cncMain.jpg
