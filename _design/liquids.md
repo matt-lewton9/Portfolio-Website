@@ -18,9 +18,9 @@ I'm currently leading the structures team of 35 students, where I manage respons
 
 <div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap;">
 
-{% include image.html file="fincan.jpg"" caption="BZB Assembly" maxWidth = "" %}
+{% include image.html file="fincan.jpg"" caption="BZB Assembly" %}
 
-{% include image.html file="structMeeting.jpg"" caption="Weekly Structures Meeting" maxWidth = "" %}
+{% include image.html file="structMeeting.jpg"" caption="Weekly Structures Meeting"  %}
 
 {% include image.html file="CMSrender.png"" caption="CMS Render" maxWidth = "800px" %}
 
