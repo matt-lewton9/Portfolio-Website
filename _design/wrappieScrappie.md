@@ -3,7 +3,7 @@ layout: project
 title: Wrappie Scrappie
 when: "July 2022"
 imgFilename: "wrappie.jpg"
-order: 1
+order: 2
 ---
 
 <div class="imgCptnBox" style="float:right">

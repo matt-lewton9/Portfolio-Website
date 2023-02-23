@@ -1,11 +1,11 @@
 images:
+  - name: bzbLaunch.png
+    description: "PSP Liquids - Structures"
+    link: design/liquids.html
+
   - name: cncMain.jpg
     description: CNC Machining
     link: /manufacturing/cncMachining.html
-
-  - name: nasaMain.jpg
-    description: NASA MINDS
-    link: design/nasaMinds.html
 
   - name: compositesMain.JPG
     description: Composites
@@ -14,6 +14,10 @@ images:
   - name: wrappie.jpg
     description: L1 Rocket
     link: design/wrappieScrappie.html
+
+  - name: nasaMain.jpg
+    description: NASA MINDS
+    link: design/nasaMinds.html
 
   - name: cncMainV2.png
     description: Desktop CNC Mill

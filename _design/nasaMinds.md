@@ -3,7 +3,7 @@ layout: project
 title: Lunar Thermoelectric Generator NASA MINDS 
 when: "2020-2021"
 imgFilename: "nasaMain.jpg"
-order: 3
+order: 4
 ---
 
 <div class="imgCptnBox" style="float:right">
