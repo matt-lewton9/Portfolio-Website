@@ -2,11 +2,11 @@
 layout: project
 title: "PSP Liquids - Structures"
 when: "Fall 2021 - Present"
-imgFilename: "bzbLaunch.png"
+imgFilename: "bzbLaunch.jpg"
 order: 1
 ---
 
-{% include image.html file="bzbLaunch.png" caption="BZB Launch Spring 2022" maxWidth = "" %}
+{% include image.html file="bzbLaunch.jpg" caption="BZB Launch Spring 2022" maxWidth = "" %}
 
 I am currently the vehicle structures lead of Purdue Space Program's liquid rocket team. We are currently designing a 2400 lbf Ethanol/LOx rocket targeting 65,000 ft: Crater-Maker Special (CMS).
 
@@ -18,15 +18,15 @@ I'm currently leading the structures team of 35 students, where I manage respons
 
 <div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap;">
 
-{% include image.html file="fincan.jpg" caption="BZB Assembly" maxWidth = "" %}
+{% include image.html file="fincan.jpg" caption="BZB Fin Can During Assembly" maxWidth = "" %}
+
+{% include image.html file="rail.JPG" caption="BZB QD Test" maxWidth = "" %}
 
 {% include image.html file="structMeeting.jpg" caption="Weekly Structures Meeting" maxWidth = ""  %}
 
-{% include image.html file="CMSrender.png" caption="CMS Render" maxWidth = "800px" %}
+{% include image.html file="Panel.jpg" caption="CMS Airframe panel" maxWidth = "" %}
 
 </div>
 
 
-<iframe width="80%" text-align="center"
-src="https://www.youtube.com/watch?v=TmexK33293g">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TmexK33293g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
