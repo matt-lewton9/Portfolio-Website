@@ -6,8 +6,6 @@ imgFilename: "bzbLaunch.jpg"
 order: 1
 ---
 
-{% include image.html file="bzbLaunch.jpg" caption="BZB Launch Spring 2022" maxWidth = "" %}
-
 I am currently the vehicle structures lead of Purdue Space Program's liquid rocket team. We are currently designing a 2400 lbf Ethanol/LOx rocket targeting 65,000 ft: Crater-Maker Special (CMS).
 
 In spring/summer 2022 we launched our previous vehicle, BZB, three times, reaching 11,000 ft. My work focused on integration and testing of the recovery system, and machining flight hardware.
@@ -26,7 +24,8 @@ I'm currently leading the structures team of 35 students, where I manage respons
 
 {% include image.html file="Panel.jpg" caption="CMS Airframe panel" maxWidth = "" %}
 
+{% include image.html file="bzbLaunch.jpg" caption="BZB Launch Spring 2022" maxWidth = "" %}
 </div>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TmexK33293g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe test-align="center" width="560" height="315" src="https://www.youtube.com/embed/TmexK33293g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
