@@ -3,7 +3,7 @@ layout: project
 title: Desktop CNC Mill
 when: "Summer 2022"
 imgFilename: "cncMainV2.png"
-order: 2
+order: 3
 ---
 
 ## Overview
