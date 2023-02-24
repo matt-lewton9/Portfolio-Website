@@ -29,3 +29,4 @@ I'm currently leading the structures team of 35 students, where I manage respons
 
 </div>
 
+<iframe class="yt" margin-left="auto" margin-right="auto" width="40%" src="https://www.youtube.com/embed/k3k04Dfdvb0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
