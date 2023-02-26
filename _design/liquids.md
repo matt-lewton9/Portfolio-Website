@@ -12,7 +12,7 @@ In spring/summer 2022 we launched our previous vehicle, BZB, three times, reachi
 
 Before becoming structures lead on CMS, I led our exploration of composite manufacturing techniques and composite modeling for simulations, drove the structural design of the lower airframe as Fin Can Responsible Engineer, and developed a program to calculate bending on the airframe due to aerodynamic loads.
 
-I'm currently leading the structures team of 35 students, where I manage responsible engineers, and direct the design-test-manufacture process. I serve as the point of contact for. This position pushes me to focus on the integration of our structural systems with fluids propulsion, avionics etc as well as mentoring new members on design, analysis, and manufacturing techniques.
+I'm currently leading the structures team of 35 students, where I manage responsible engineers, and direct the design-test-manufacture process. This position pushes me to focus on the integration of our structural systems with fluids, propulsion, and avionics as well as mentoring new members on design, analysis, and manufacturing techniques.
 
 <div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap;">
 
@@ -21,7 +21,7 @@ I'm currently leading the structures team of 35 students, where I manage respons
 
 {% include image.html file="fincan.jpg" caption="BZB Fin Can During Assembly" maxWidth = "" %}
 
-{% include image.html file="rail.JPG" caption="BZB QD Test" maxWidth = "" %}
+{% include image.html file="rail.JPG" caption="BZB Wet Dress Rehearsal" maxWidth = "" %}
 
 {% include image.html file="structMeeting.jpg" caption="Weekly Structures Meeting" maxWidth = ""  %}
 
