@@ -8,7 +8,7 @@ order: 1
 
 I am currently the vehicle structures lead of Purdue Space Program's liquid rocket team. We are currently designing a 2400 lbf Ethanol/LOx rocket targeting 65,000 ft: Crater-Maker Special (CMS).
 
-In spring/summer 2022 we launched our previous vehicle, BZB, three times, reaching 11,000 ft. My work focused on integration and testing of the recovery system, and machining flight hardware.
+In spring/summer 2022 we launched our previous vehicle, BZB, three times reaching 11,000 ft. My work focused on integration and testing of the recovery system, and machining flight hardware.
 
 Before becoming structures lead on CMS, I led our exploration of composite manufacturing techniques and composite modeling for simulations, drove the structural design of the lower airframe as Fin Can Responsible Engineer, and developed a program to calculate bending on the airframe due to aerodynamic loads.
 
