@@ -6,11 +6,7 @@ imgFilename: "3dpMain2.JPG"
 order: 3
 ---
 
-I've been FDM 3D printing since high school. I mostly print mechanical parts, and I'm able to consistently get clearance, transition, and interference fits for tight fittig assemblies. 
-
-I've been very interested in print-in-place assemblies, where all the parts are printed in a pre-assembled arrangement, and they come off the printer as a moving assembly.
-
-My 3d printing hobby projects are on Instagram <a href="https://www.instagram.com/matts_3d_printer/" class="link" target="_blank" rel="noopener noreferrer">@matts_3d_printer</a>. I sell 3D printed christmas ornaments, desk organizers, custom trophies, and other items on my Etsy store <a href="https://www.etsy.com/shop/OverEngineered3D" class="link" target="_blank" rel="noopener noreferrer">OverEngineered3D</a>. Unfortunately, most of my hobby projects can't be produced at scale to be sold on Etsy. 
+I started FDM 3D printing in high school. I mostly print smalll mechanical parts, and spent a lot of time playing with print settings to consistently get clearance, transition, and interference fits for tight assemblies. 
 
 Here are a few past projects:
 
