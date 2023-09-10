@@ -16,12 +16,13 @@ Here are some parts I've made:
 
 {% include image.html file="pultrusion.jpg" caption="Stainless steel pultrusion chamber (see resume)" maxWidth = "" %}
 
+{% include image.html file="convection.jpg" caption="Convection heating channels for CMSC nozzle" maxWidth = "" %}
+
 {% include image.html file="training.JPG" caption="Leading Purdue Space Program CAM Training" maxWidth = "" %}
 
 {% include image.html file="lightsaber.jpg" caption="5 Axis aluminum lightsaber handle" maxWidth = "" %}
 
-{% include image.html file="convection.jpg" caption="Convection heating channels for CMSC nozzle" maxWidth = "" %}
-
+{% include image.html file="pommelDetail.jpg" caption="Aluminum lightsaber detail on pommel" maxWidth = "" %}
 
 <div class="imgCptnBox">
 <img src="{{ "assets/images/cncMain.jpg" | relative_url }}" class="articleImg">

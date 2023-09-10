@@ -1,12 +1,10 @@
 ---
 layout: project
 title: Composites
-imgFilename: "compositesMain.JPG"
+imgFilename: "scaleTube.jpg"
 when: ""
 order: 1
 ---
-
-At Purdue, I've had the opportiniuty to learn composites design and manufacturing, and I'll be starting a composites manufacturing internship at NASA Langley Research Center Spring 2023.
 
 On Purdue Space Program Liquids I am leading the design-manufacture-test campaign for composites. We are making structural airframe sections, fins, a nosecone, and airframe panels, using oven cured prepreg fabric in a two piece vacuum bagged mold. The mold itself is tooling prepreg cured over a male mold of the part. We are also hand wrapping our engine in silica phenolic ablative with a carbon fiber / epoxy overwrap.
 
@@ -14,7 +12,16 @@ I am using Ansys ACP to design and simulate the strength of composite airframes.
 
 I also made a fiberglass airframe from scratch for my L1 high power rocket. Check previous posts for {% include url.html url="https://mattlewton.me/2022/07/03/fiberglass.html" text="manufacturing" %} and {% include url.html url="https://mattlewton.me/2022/07/08/fg_test.html" text="testing and defects" %}.
 
+We are currently in the process of destructively testing scale carbon fiber airframes to characterize skin buckling failure with our manufacturing techniques/quality.
+
 <div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap;">
+
+{% include image.html file="CFseam.jpg" caption="Scale seam carbon fiber seam molding" maxWidth = "" %}
+
+{% include image.html file="scaleTube.jpg" caption="Scale carbon fiber airframe" maxWidth = "" %}
+
+{% include image.html file="compositesTest.jpg" caption="Tube on destructive tesing rig" maxWidth = "" %}
+
 
 <div class="imgCptnBox">
 <img src="{{ "assets/images/panel.png" | relative_url }}" class="articleImgMain">
@@ -25,17 +32,7 @@ I also made a fiberglass airframe from scratch for my L1 high power rocket. Chec
 
 <div class="imgCptnBox">
 <img src="{{ "assets/images/compositesMain.JPG" | relative_url }}" class="articleImgMain">
-<figcaption class="articleCaption">6" OD carbon fiber tube</figcaption>
-</div>
-
-<div class="imgCptnBox">
-<img src="{{ "assets/images/CFbowl.png" | relative_url }}" class="articleImgMain">
-<figcaption class="articleCaption">Carbon Fiber Bowl</figcaption>
-</div>
-
-<div class="imgCptnBox">
-<img src="{{ "assets/images/roller.JPG" | relative_url }}" class="articleImgMain">
-<figcaption class="articleCaption">Wet layup of carbon fiber tube</figcaption>
+<figcaption class="articleCaption">Early 6" OD carbon fiber tube</figcaption>
 </div>
 
 <div class="imgCptnBox">
