@@ -20,7 +20,7 @@ Here are some parts I've made:
 
 {% include image.html file="lightsaber.jpg" caption="5 Axis aluminum lightsaber handle" maxWidth = "" %}
 
-{% include image.html file="convection.jpg" caption="Convection heating channels for CMSC nozzle, there's a 3/32 4" hole through this part too!" maxWidth = "" %}
+{% include image.html file="convection.jpg" caption="Convection heating channels for CMSC nozzle, there's a 3/32 x 4 in hole through this part too!" maxWidth = "" %}
 
 
 <div class="imgCptnBox">
