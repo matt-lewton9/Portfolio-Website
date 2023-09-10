@@ -26,7 +26,7 @@ I'm currently leading the structures team of 35 students, where I manage respons
 
 {% include image.html file="rail.JPG" caption="BZB Wet Dress Rehearsal" maxWidth = "" %}
 
-{% include image.html file="composites_test.jpg" caption="Destructive testing of scale composite tubes to characterize skin buckling with our manufacturing techniques" maxWidth = "" %}
+{% include image.html file="compositesTest.jpg" caption="Scale desctructive testing" maxWidth = "" %}
 
 {% include image.html file="structMeeting.jpg" caption="Weekly Structures Meeting" maxWidth = ""  %}
 
