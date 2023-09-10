@@ -4,7 +4,7 @@ images:
     description: PSP Liquids Structures
     link: design/liquids.html
 
-  - name: cncMain.jpg
+  - name: pultrusion.jpg
     description: CNC Machining
     link: /manufacturing/cncMachining.html
 

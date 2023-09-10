@@ -2,7 +2,7 @@
 layout: project
 title: CNC Machining
 when: ""
-imgFilename: "cncMain.jpg"
+imgFilename: "pultrusion.jpg"
 order: 2
 ---
 
@@ -14,7 +14,14 @@ Here are some parts I've made:
 
 <div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap;">
 
+{% include image.html file="pultrusion.jpg" caption="Stainless steel pultrusion chamber assembly for CMSC research position (see resume)" maxWidth = "" %}
+
 {% include image.html file="training.JPG" caption="Leading Purdue Space Program CAM Training" maxWidth = "" %}
+
+{% include image.html file="lightsaber.jpg" caption="5 Axis aluminum lightsaber handle" maxWidth = "" %}
+
+{% include image.html file="convection.jpg" caption="Convection heating channels for CMSC nozzle, there's a 3/32 4" hole through this part too!" maxWidth = "" %}
+
 
 <div class="imgCptnBox">
 <img src="{{ "assets/images/cncMain.jpg" | relative_url }}" class="articleImg">
@@ -46,11 +53,6 @@ Here are some parts I've made:
 <div class="imgCptnBox">
 <img src="{{ "assets/images/cnc3.JPG" | relative_url }}" class="articleImg">
 <figcaption class="articleCaption">Helical Pen Cap, P0 Steel, 5 axis rotary part</figcaption>
-</div>
-
-<div class="imgCptnBox">
-<img src="{{ "assets/images/cnc5.JPG" | relative_url }}" class="articleImg">
-<figcaption class="articleCaption">Bolt, P3 Steel, BIDC CNC lathe training</figcaption>
 </div>
 
 <div class="imgCptnBox">
