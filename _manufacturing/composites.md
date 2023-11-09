@@ -3,7 +3,7 @@ layout: project
 title: Composites
 imgFilename: "scaleTube.jpg"
 when: ""
-order: 1
+order: 2
 ---
 
 On Purdue Space Program Liquids I am leading the design-manufacture-test campaign for composites. We are making structural airframe sections, fins, a nosecone, and airframe panels, using oven cured prepreg fabric in a two piece vacuum bagged mold. The mold itself is tooling prepreg cured over a male mold of the part. We are also hand wrapping our engine in silica phenolic ablative with a carbon fiber / epoxy overwrap.

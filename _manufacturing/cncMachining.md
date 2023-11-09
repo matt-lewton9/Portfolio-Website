@@ -3,7 +3,7 @@ layout: project
 title: CNC Machining
 when: ""
 imgFilename: "pultrusion.jpg"
-order: 2
+order: 1
 ---
 
 I work as a Peer Mentor at the Bechtel Innovation Design Center (BIDC) at Purdue. I'm functionally a student machinist, and mentor users of the metal shop in the design and fabrication of their projects. I advise students on part manufacturability, tooling and work holding for their machining operations, and guide them through using the machines. I’m also on the Purdue Space Program Liquids manufacturing team, where I make flight hardware for our vehicle.
@@ -15,16 +15,14 @@ Here are some parts I've made:
 <div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap;">
 
 {% include image.html file="pultrusion.jpg" caption="Stainless steel pultrusion chamber partially assembled (see resume)" maxWidth = "" %}
-{% include image.html file="pultrusion.jpg" caption="Stainless steel pultrusion parts" maxWidth = "" %}
+{% include image.html file="pultrusion2.jpg" caption="Stainless steel pultrusion parts" maxWidth = "" %}
 
 <div class="imgCptnBox">
 <img src="{{ "assets/images/convection.jpg" | relative_url }}" class="articleImg">
 <figcaption class="articleCaption">Inner heating cartdidge for additve nozzle<br>Exterior helical channel, interior impinging orifices</figcaption>
 </div>
 
-{% include image.html file="convection.jpg" caption="Convection heating channels for CMSC nozzle" maxWidth = "" %}
-
-{% include image.html file="saber2.jpg" caption="5 Axis aluminum lightsaber handle" maxWidth = "" %}
+{% include image.html file="saber3.jpg" caption="5 Axis aluminum lightsaber handle" maxWidth = "" %}
 
 {% include image.html file="pommelDetail.jpg" caption="Aluminum lightsaber detail on pommel" maxWidth = "" %}
 
@@ -32,6 +30,9 @@ Here are some parts I've made:
 <img src="{{ "assets/images/nozzle_assy.jpg" | relative_url }}" class="articleImg">
 <figcaption class="articleCaption">Convective Heating Nozzle Assembly (see resume)</figcaption>
 </div>
+
+{% include image.html file="bonsai.jpg" caption="Steel Bonsai Tree" maxWidth = "" %}
+
 
 <div class="imgCptnBox">
 <img src="{{ "assets/images/cncMain.jpg" | relative_url }}" class="articleImg">
