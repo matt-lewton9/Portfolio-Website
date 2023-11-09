@@ -22,14 +22,14 @@ Here are some parts I've made:
 <figcaption class="articleCaption">Inner heating cartdidge for additve nozzle<br>Exterior helical channel, interior impinging orifices</figcaption>
 </div>
 
-{% include image.html file="saber3.jpg" caption="5 Axis aluminum lightsaber handle" maxWidth = "" %}
-
-{% include image.html file="pommelDetail.jpg" caption="Aluminum lightsaber detail on pommel" maxWidth = "" %}
-
 <div class="imgCptnBox">
 <img src="{{ "assets/images/nozzle_assy.jpg" | relative_url }}" class="articleImg">
 <figcaption class="articleCaption">Convective Heating Nozzle Assembly (see resume)</figcaption>
 </div>
+
+{% include image.html file="saber3.jpg" caption="5 Axis aluminum lightsaber handle" maxWidth = "" %}
+
+{% include image.html file="pommelDetail.jpg" caption="Aluminum lightsaber detail on pommel" maxWidth = "" %}
 
 {% include image.html file="bonsai.jpg" caption="Steel Bonsai Tree" maxWidth = "" %}
 
