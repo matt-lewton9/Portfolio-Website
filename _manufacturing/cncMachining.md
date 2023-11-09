@@ -14,11 +14,15 @@ Here are some parts I've made:
 
 <div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap;">
 
-{% include image.html file="pultrusion.jpg" caption="Stainless steel pultrusion chamber (see resume)" maxWidth = "" %}
+{% include image.html file="pultrusion.jpg" caption="Stainless steel pultrusion chamber partially assembled (see resume)" maxWidth = "" %}
+{% include image.html file="pultrusion.jpg" caption="Stainless steel pultrusion parts" maxWidth = "" %}
+
+<div class="imgCptnBox">
+<img src="{{ "assets/images/convection.jpg" | relative_url }}" class="articleImg">
+<figcaption class="articleCaption">Inner heating cartdidge for additve nozzle<br>Exterior helical channel, interior impinging orifices</figcaption>
+</div>
 
 {% include image.html file="convection.jpg" caption="Convection heating channels for CMSC nozzle" maxWidth = "" %}
-
-{% include image.html file="training.JPG" caption="Leading Purdue Space Program CAM Training" maxWidth = "" %}
 
 {% include image.html file="saber2.jpg" caption="5 Axis aluminum lightsaber handle" maxWidth = "" %}
 
@@ -41,10 +45,10 @@ Here are some parts I've made:
 
 <div class="imgCptnBox">
 <img src="{{ "assets/images/wallets.jpg" | relative_url }}" class="articleImg">
-<figcaption class="articleCaption">Aluminum wallets with engraved front plate.<br>Home anodized gunmetal and silver.</figcaption>
+<figcaption class="articleCaption">Aluminum wallets with engraved front plate.<br>Home anodized in gunmetal and silver.</figcaption>
 </div>
 
-{% include image.html file="chamby.jpg" caption="Stainless steel engine replica" maxWidth = "" %}
+{% include image.html file="chamby.jpg" caption="Stainless steel engine shot glass" maxWidth = "" %}
 
 <div class="imgCptnBox">
 <img src="{{ "assets/images/cncMain2.JPG" | relative_url }}" class="articleImg">
@@ -53,7 +57,7 @@ Here are some parts I've made:
 
 <div class="imgCptnBox">
 <img src="{{ "assets/images/cnc3.JPG" | relative_url }}" class="articleImg">
-<figcaption class="articleCaption">Helical Pen Cap, P0 Steel, 5 axis rotary part</figcaption>
+<figcaption class="articleCaption">Helical Pen Cap, P0 Steel, (my first) 5 axis rotary part</figcaption>
 </div>
 
 <div class="imgCptnBox">

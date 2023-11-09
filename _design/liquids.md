@@ -24,7 +24,7 @@ I'm currently leading the structures team of 35 students, where I manage respons
 
 {% include image.html file="fincan.jpg" caption="BZB Fin Can During Assembly" maxWidth = "" %}
 
-{% include image.html file="rail.JPG" caption="BZB Wet Dress Rehearsal" maxWidth = "" %}
+{% include image.html file="training.JPG" caption="Leading Purdue Space Program CAM Training" maxWidth = "" %}
 
 {% include image.html file="compositesTest.jpg" caption="Scale composites desctructive testing" maxWidth = "" %}
 
