@@ -31,7 +31,7 @@ Here are some parts I've made:
 
 {% include image.html file="pommelDetail.jpg" caption="Aluminum lightsaber detail on pommel" maxWidth = "" %}
 
-{% include image.html file="bonsai.jpg" caption="Steel Bonsai Tree" maxWidth = "" %}
+{% include image.html file="bonsai.jpg" caption="Stainless Steel Bonsai Tree" maxWidth = "" %}
 
 
 <div class="imgCptnBox">
