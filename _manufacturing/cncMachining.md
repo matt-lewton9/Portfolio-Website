@@ -20,9 +20,14 @@ Here are some parts I've made:
 
 {% include image.html file="training.JPG" caption="Leading Purdue Space Program CAM Training" maxWidth = "" %}
 
-{% include image.html file="lightsaber.jpg" caption="5 Axis aluminum lightsaber handle" maxWidth = "" %}
+{% include image.html file="saber2.jpg" caption="5 Axis aluminum lightsaber handle" maxWidth = "" %}
 
 {% include image.html file="pommelDetail.jpg" caption="Aluminum lightsaber detail on pommel" maxWidth = "" %}
+
+<div class="imgCptnBox">
+<img src="{{ "assets/images/nozzle_assy.jpg" | relative_url }}" class="articleImg">
+<figcaption class="articleCaption">Convective Heating Nozzle Assembly (see resume)</figcaption>
+</div>
 
 <div class="imgCptnBox">
 <img src="{{ "assets/images/cncMain.jpg" | relative_url }}" class="articleImg">
@@ -37,11 +42,6 @@ Here are some parts I've made:
 <div class="imgCptnBox">
 <img src="{{ "assets/images/wallets.jpg" | relative_url }}" class="articleImg">
 <figcaption class="articleCaption">Aluminum wallets with engraved front plate.<br>Home anodized gunmetal and silver.</figcaption>
-</div>
-
-<div class="imgCptnBox">
-<img src="{{ "assets/images/cnc4.JPG" | relative_url }}" class="articleImg">
-<figcaption class="articleCaption">Fin Can Center Ring, Aluminum PSP flight hardware</figcaption>
 </div>
 
 {% include image.html file="chamby.jpg" caption="Stainless steel engine replica" maxWidth = "" %}
