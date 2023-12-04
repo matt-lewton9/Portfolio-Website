@@ -32,7 +32,7 @@ images:
     description: CNC Machining
     link: /manufacturing/cncMachining.html
   
-    - name: voronoi.JPG
+  - name: voronoi.JPG
     description: 3D Printing
     link: /manufacturing/3dPrinting.html
 
