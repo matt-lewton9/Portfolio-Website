@@ -28,22 +28,18 @@ images:
     description: Fiberglass Manufacturing
     link: /2022/07/03/fiberglass.html
 
-  - name: CNCglamour.jpg
+  - name: UAstruts.jpg
     description: CNC Machining
     link: /manufacturing/cncMachining.html
-
-  - name: 3dpMain2.JPG
+  
+    - name: voronoi.JPG
     description: 3D Printing
     link: /manufacturing/3dPrinting.html
-  
+
   - name: clubShadeMain.png
     description: Ice Rink Shade
     link: /programming/clubShade.html
     
-  - name: voronoi.JPG
-    description: 3D Printing
-    link: /manufacturing/3dPrinting.html
-
   - name: pizzaOven.png
     description: Pizza Oven
     link: /2022/07/30/Pizza_Oven.html
