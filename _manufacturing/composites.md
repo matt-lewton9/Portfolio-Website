@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Composites
-imgFilename: "scaleTube.jpg"
+imgFilename: "comp_main.jpg"
 when: ""
 order: 2
 ---
@@ -16,7 +16,9 @@ We are currently in the process of destructively testing scale carbon fiber airf
 
 <div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap;">
 
-{% include image.html file="CFseam.jpg" caption="Scale seam carbon fiber seam molding" maxWidth = "" %}
+{% include image.html file="CFseam.jpg" caption="Scale seam carbon fiber mold halves" maxWidth = "" %}
+{% include image.html file="comp_main.jpg" caption="Seam mold closed, plies meet at butt joints" maxWidth = "" %}
+
 
 {% include image.html file="scaleTube.jpg" caption="Scale carbon fiber airframe" maxWidth = "" %}
 
